@@ -1,0 +1,1863 @@
+$$$00.00
+<!-- Daily Devotional: Robert Murray M‘Cheyne's Bible Reading Calendar (1842), known also as Daily Bread. -->
+<!-- Revision history: -->
+<!-- 2025-03-06 Completed changing XML markup to OSIS -->
+<!-- 2017-08-07 Started to change XML markup from ThML to OSIS -->
+<!--            Month titles with original subtitles added -->
+<!--            Comma separated references split for improved user experience in (e.g.) PocketSword -->
+<!--            Moved the misplaced reference for Jeremiah 45 (supposedly this was a typo. in the original) -->
+<!--            Corrected the spelling for Philippians -->
+<!--            Added special entry for Leap Year Day -->
+<!-- Please visit the Robert Murray M‘Cheyne Resources website at https://www.mcheyne.info/ -->
+$$$01.00
+<title type="main" level="1" subType="x-month">JANUARY<title type="sub" level="2">THIS IS MY BELOVED SON, IN WHOM I AM WELL PLEASED. HEAR YE HIM.</title></title>
+$$$01.01
+<lb/>Family Reading: <reference osisRef="Gen.1">Genesis 1</reference>
+<lb/>Family Reading: <reference osisRef="Matt.1">Matthew 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.1">Ezra 1</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.1">Acts 1</reference>
+$$$01.02
+<lb/>Family Reading: <reference osisRef="Gen.2">Genesis 2</reference>
+<lb/>Family Reading: <reference osisRef="Matt.2">Matthew 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.2">Ezra 2</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.2">Acts 2</reference>
+$$$01.03
+<lb/>Family Reading: <reference osisRef="Gen.3">Genesis 3</reference>
+<lb/>Family Reading: <reference osisRef="Matt.3">Matthew 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.3">Ezra 3</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.3">Acts 3</reference>
+$$$01.04
+<lb/>Family Reading: <reference osisRef="Gen.4">Genesis 4</reference>
+<lb/>Family Reading: <reference osisRef="Matt.4">Matthew 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.4">Ezra 4</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.4">Acts 4</reference>
+$$$01.05
+<lb/>Family Reading: <reference osisRef="Gen.5">Genesis 5</reference>
+<lb/>Family Reading: <reference osisRef="Matt.5">Matthew 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.5">Ezra 5</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.5">Acts 5</reference>
+$$$01.06
+<lb/>Family Reading: <reference osisRef="Gen.6">Genesis 6</reference>
+<lb/>Family Reading: <reference osisRef="Matt.6">Matthew 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.6">Ezra 6</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.6">Acts 6</reference>
+$$$01.07
+<lb/>Family Reading: <reference osisRef="Gen.7">Genesis 7</reference>
+<lb/>Family Reading: <reference osisRef="Matt.7">Matthew 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.7">Ezra 7</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.7">Acts 7</reference>
+$$$01.08
+<lb/>Family Reading: <reference osisRef="Gen.8">Genesis 8</reference>
+<lb/>Family Reading: <reference osisRef="Matt.8">Matthew 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.8">Ezra 8</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.8">Acts 8</reference>
+$$$01.09
+<lb/>Family Reading: <reference osisRef="Gen.9">Genesis 9</reference>, <reference osisRef="Gen.10">10</reference>
+<lb/>Family Reading: <reference osisRef="Matt.9">Matthew 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.9">Ezra 9</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.9">Acts 9</reference>
+$$$01.10
+<lb/>Family Reading: <reference osisRef="Gen.11">Genesis 11</reference>
+<lb/>Family Reading: <reference osisRef="Matt.10">Matthew 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ezra.10">Ezra 10</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.10">Acts 10</reference>
+$$$01.11
+<lb/>Family Reading: <reference osisRef="Gen.12">Genesis 12</reference>
+<lb/>Family Reading: <reference osisRef="Matt.11">Matthew 11</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.1">Nehemiah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.11">Acts 11</reference>
+$$$01.12
+<lb/>Family Reading: <reference osisRef="Gen.13">Genesis 13</reference>
+<lb/>Family Reading: <reference osisRef="Matt.12">Matthew 12</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.2">Nehemiah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.12">Acts 12</reference>
+$$$01.13
+<lb/>Family Reading: <reference osisRef="Gen.14">Genesis 14</reference>
+<lb/>Family Reading: <reference osisRef="Matt.13">Matthew 13</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.3">Nehemiah 3</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.13">Acts 13</reference>
+$$$01.14
+<lb/>Family Reading: <reference osisRef="Gen.15">Genesis 15</reference>
+<lb/>Family Reading: <reference osisRef="Matt.14">Matthew 14</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.4">Nehemiah 4</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.14">Acts 14</reference>
+$$$01.15
+<lb/>Family Reading: <reference osisRef="Gen.16">Genesis 16</reference>
+<lb/>Family Reading: <reference osisRef="Matt.15">Matthew 15</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.5">Nehemiah 5</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.15">Acts 15</reference>
+$$$01.16
+<lb/>Family Reading: <reference osisRef="Gen.17">Genesis 17</reference>
+<lb/>Family Reading: <reference osisRef="Matt.16">Matthew 16</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.6">Nehemiah 6</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.16">Acts 16</reference>
+$$$01.17
+<lb/>Family Reading: <reference osisRef="Gen.18">Genesis 18</reference>
+<lb/>Family Reading: <reference osisRef="Matt.17">Matthew 17</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.7">Nehemiah 7</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.17">Acts 17</reference>
+$$$01.18
+<lb/>Family Reading: <reference osisRef="Gen.19">Genesis 19</reference>
+<lb/>Family Reading: <reference osisRef="Matt.18">Matthew 18</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.8">Nehemiah 8</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.18">Acts 18</reference>
+$$$01.19
+<lb/>Family Reading: <reference osisRef="Gen.20">Genesis 20</reference>
+<lb/>Family Reading: <reference osisRef="Matt.19">Matthew 19</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.9">Nehemiah 9</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.19">Acts 19</reference>
+$$$01.20
+<lb/>Family Reading: <reference osisRef="Gen.21">Genesis 21</reference>
+<lb/>Family Reading: <reference osisRef="Matt.20">Matthew 20</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.10">Nehemiah 10</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.20">Acts 20</reference>
+$$$01.21
+<lb/>Family Reading: <reference osisRef="Gen.22">Genesis 22</reference>
+<lb/>Family Reading: <reference osisRef="Matt.21">Matthew 21</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.11">Nehemiah 11</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.21">Acts 21</reference>
+$$$01.22
+<lb/>Family Reading: <reference osisRef="Gen.23">Genesis 23</reference>
+<lb/>Family Reading: <reference osisRef="Matt.22">Matthew 22</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.12">Nehemiah 12</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.22">Acts 22</reference>
+$$$01.23
+<lb/>Family Reading: <reference osisRef="Gen.24">Genesis 24</reference>
+<lb/>Family Reading: <reference osisRef="Matt.23">Matthew 23</reference>
+<lb/>Secret Reading: <reference osisRef="Neh.13">Nehemiah 13</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.23">Acts 23</reference>
+$$$01.24
+<lb/>Family Reading: <reference osisRef="Gen.25">Genesis 25</reference>
+<lb/>Family Reading: <reference osisRef="Matt.24">Matthew 24</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.1">Esther 1</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.24">Acts 24</reference>
+$$$01.25
+<lb/>Family Reading: <reference osisRef="Gen.26">Genesis 26</reference>
+<lb/>Family Reading: <reference osisRef="Matt.25">Matthew 25</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.2">Esther 2</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.25">Acts 25</reference>
+$$$01.26
+<lb/>Family Reading: <reference osisRef="Gen.27">Genesis 27</reference>
+<lb/>Family Reading: <reference osisRef="Matt.26">Matthew 26</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.3">Esther 3</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.26">Acts 26</reference>
+$$$01.27
+<lb/>Family Reading: <reference osisRef="Gen.28">Genesis 28</reference>
+<lb/>Family Reading: <reference osisRef="Matt.27">Matthew 27</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.4">Esther 4</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.27">Acts 27</reference>
+$$$01.28
+<lb/>Family Reading: <reference osisRef="Gen.29">Genesis 29</reference>
+<lb/>Family Reading: <reference osisRef="Matt.28">Matthew 28</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.5">Esther 5</reference>
+<lb/>Secret Reading: <reference osisRef="Acts.28">Acts 28</reference>
+$$$01.29
+<lb/>Family Reading: <reference osisRef="Gen.30">Genesis 30</reference>
+<lb/>Family Reading: <reference osisRef="Mark.1">Mark 1</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.6">Esther 6</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.1">Romans 1</reference>
+$$$01.30
+<lb/>Family Reading: <reference osisRef="Gen.31">Genesis 31</reference>
+<lb/>Family Reading: <reference osisRef="Mark.2">Mark 2</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.7">Esther 7</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.2">Romans 2</reference>
+$$$01.31
+<lb/>Family Reading: <reference osisRef="Gen.32">Genesis 32</reference>
+<lb/>Family Reading: <reference osisRef="Mark.3">Mark 3</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.8">Esther 8</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.3">Romans 3</reference>
+$$$02.00
+<title type="main" level="1" subType="x-month">FEBRUARY<title type="sub" level="2">I HAVE ESTEEMED THE WORDS OF HIS MOUTH MORE THAN MY NECESSARY FOOD.</title></title>
+$$$02.01
+<lb/>Family Reading: <reference osisRef="Gen.33">Genesis 33</reference>
+<lb/>Family Reading: <reference osisRef="Mark.4">Mark 4</reference>
+<lb/>Secret Reading: <reference osisRef="Esth.9">Esther 9</reference>, <reference osisRef="Esth.10">10</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.4">Romans 4</reference>
+$$$02.02
+<lb/>Family Reading: <reference osisRef="Gen.34">Genesis 34</reference>
+<lb/>Family Reading: <reference osisRef="Mark.5">Mark 5</reference>
+<lb/>Secret Reading: <reference osisRef="Job.1">Job 1</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.5">Romans 5</reference>
+$$$02.03
+<lb/>Family Reading: <reference osisRef="Gen.35">Genesis 35</reference>, <reference osisRef="Gen.36">36</reference>
+<lb/>Family Reading: <reference osisRef="Mark.6">Mark 6</reference>
+<lb/>Secret Reading: <reference osisRef="Job.2">Job 2</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.6">Romans 6</reference>
+$$$02.04
+<lb/>Family Reading: <reference osisRef="Gen.37">Genesis 37</reference>
+<lb/>Family Reading: <reference osisRef="Mark.7">Mark 7</reference>
+<lb/>Secret Reading: <reference osisRef="Job.3">Job 3</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.7">Romans 7</reference>
+$$$02.05
+<lb/>Family Reading: <reference osisRef="Gen.38">Genesis 38</reference>
+<lb/>Family Reading: <reference osisRef="Mark.8">Mark 8</reference>
+<lb/>Secret Reading: <reference osisRef="Job.4">Job 4</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.8">Romans 8</reference>
+$$$02.06
+<lb/>Family Reading: <reference osisRef="Gen.39">Genesis 39</reference>
+<lb/>Family Reading: <reference osisRef="Mark.9">Mark 9</reference>
+<lb/>Secret Reading: <reference osisRef="Job.5">Job 5</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.9">Romans 9</reference>
+$$$02.07
+<lb/>Family Reading: <reference osisRef="Gen.40">Genesis 40</reference>
+<lb/>Family Reading: <reference osisRef="Mark.10">Mark 10</reference>
+<lb/>Secret Reading: <reference osisRef="Job.6">Job 6</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.10">Romans 10</reference>
+$$$02.08
+<lb/>Family Reading: <reference osisRef="Gen.41">Genesis 41</reference>
+<lb/>Family Reading: <reference osisRef="Mark.11">Mark 11</reference>
+<lb/>Secret Reading: <reference osisRef="Job.7">Job 7</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.11">Romans 11</reference>
+$$$02.09
+<lb/>Family Reading: <reference osisRef="Gen.42">Genesis 42</reference>
+<lb/>Family Reading: <reference osisRef="Mark.12">Mark 12</reference>
+<lb/>Secret Reading: <reference osisRef="Job.8">Job 8</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.12">Romans 12</reference>
+$$$02.10
+<lb/>Family Reading: <reference osisRef="Gen.43">Genesis 43</reference>
+<lb/>Family Reading: <reference osisRef="Mark.13">Mark 13</reference>
+<lb/>Secret Reading: <reference osisRef="Job.9">Job 9</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.13">Romans 13</reference>
+$$$02.11
+<lb/>Family Reading: <reference osisRef="Gen.44">Genesis 44</reference>
+<lb/>Family Reading: <reference osisRef="Mark.14">Mark 14</reference>
+<lb/>Secret Reading: <reference osisRef="Job.10">Job 10</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.14">Romans 14</reference>
+$$$02.12
+<lb/>Family Reading: <reference osisRef="Gen.45">Genesis 45</reference>
+<lb/>Family Reading: <reference osisRef="Mark.15">Mark 15</reference>
+<lb/>Secret Reading: <reference osisRef="Job.11">Job 11</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.15">Romans 15</reference>
+$$$02.13
+<lb/>Family Reading: <reference osisRef="Gen.46">Genesis 46</reference>
+<lb/>Family Reading: <reference osisRef="Mark.16">Mark 16</reference>
+<lb/>Secret Reading: <reference osisRef="Job.12">Job 12</reference>
+<lb/>Secret Reading: <reference osisRef="Rom.16">Romans 16</reference>
+$$$02.14
+<lb/>Family Reading: <reference osisRef="Gen.47">Genesis 47</reference>
+<lb/>Family Reading: <reference osisRef="Luke.1.1-Luke.1.38">Luke 1:1-38</reference>
+<lb/>Secret Reading: <reference osisRef="Job.13">Job 13</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.1">1 Corinthians 1</reference>
+$$$02.15
+<lb/>Family Reading: <reference osisRef="Gen.48">Genesis 48</reference>
+<lb/>Family Reading: <reference osisRef="Luke.1.39-Luke.1.80">Luke 1:39-80</reference>
+<lb/>Secret Reading: <reference osisRef="Job.14">Job 14</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.2">1 Corinthians 2</reference>
+$$$02.16
+<lb/>Family Reading: <reference osisRef="Gen.49">Genesis 49</reference>
+<lb/>Family Reading: <reference osisRef="Luke.2">Luke 2</reference>
+<lb/>Secret Reading: <reference osisRef="Job.15">Job 15</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.3">1 Corinthians 3</reference>
+$$$02.17
+<lb/>Family Reading: <reference osisRef="Gen.50">Genesis 50</reference>
+<lb/>Family Reading: <reference osisRef="Luke.3">Luke 3</reference>
+<lb/>Secret Reading: <reference osisRef="Job.16">Job 16</reference>, <reference osisRef="Job.17">17</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.4">1 Corinthians 4</reference>
+$$$02.18
+<lb/>Family Reading: <reference osisRef="Exod.1">Exodus 1</reference>
+<lb/>Family Reading: <reference osisRef="Luke.4">Luke 4</reference>
+<lb/>Secret Reading: <reference osisRef="Job.18">Job 18</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.5">1 Corinthians 5</reference>
+$$$02.19
+<lb/>Family Reading: <reference osisRef="Exod.2">Exodus 2</reference>
+<lb/>Family Reading: <reference osisRef="Luke.5">Luke 5</reference>
+<lb/>Secret Reading: <reference osisRef="Job.19">Job 19</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.6">1 Corinthians 6</reference>
+$$$02.20
+<lb/>Family Reading: <reference osisRef="Exod.3">Exodus 3</reference>
+<lb/>Family Reading: <reference osisRef="Luke.6">Luke 6</reference>
+<lb/>Secret Reading: <reference osisRef="Job.20">Job 20</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.7">1 Corinthians 7</reference>
+$$$02.21
+<lb/>Family Reading: <reference osisRef="Exod.4">Exodus 4</reference>
+<lb/>Family Reading: <reference osisRef="Luke.7">Luke 7</reference>
+<lb/>Secret Reading: <reference osisRef="Job.21">Job 21</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.8">1 Corinthians 8</reference>
+$$$02.22
+<lb/>Family Reading: <reference osisRef="Exod.5">Exodus 5</reference>
+<lb/>Family Reading: <reference osisRef="Luke.8">Luke 8</reference>
+<lb/>Secret Reading: <reference osisRef="Job.22">Job 22</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.9">1 Corinthians 9</reference>
+$$$02.23
+<lb/>Family Reading: <reference osisRef="Exod.6">Exodus 6</reference>
+<lb/>Family Reading: <reference osisRef="Luke.9">Luke 9</reference>
+<lb/>Secret Reading: <reference osisRef="Job.23">Job 23</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.10">1 Corinthians 10</reference>
+$$$02.24
+<lb/>Family Reading: <reference osisRef="Exod.7">Exodus 7</reference>
+<lb/>Family Reading: <reference osisRef="Luke.10">Luke 10</reference>
+<lb/>Secret Reading: <reference osisRef="Job.24">Job 24</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.11">1 Corinthians 11</reference>
+$$$02.25
+<lb/>Family Reading: <reference osisRef="Exod.8">Exodus 8</reference>
+<lb/>Family Reading: <reference osisRef="Luke.11">Luke 11</reference>
+<lb/>Secret Reading: <reference osisRef="Job.25">Job 25</reference>, <reference osisRef="Job.26">26</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.12">1 Corinthians 12</reference>
+$$$02.26
+<lb/>Family Reading: <reference osisRef="Exod.9">Exodus 9</reference>
+<lb/>Family Reading: <reference osisRef="Luke.12">Luke 12</reference>
+<lb/>Secret Reading: <reference osisRef="Job.27">Job 27</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.13">1 Corinthians 13</reference>
+$$$02.27
+<lb/>Family Reading: <reference osisRef="Exod.10">Exodus 10</reference>
+<lb/>Family Reading: <reference osisRef="Luke.13">Luke 13</reference>
+<lb/>Secret Reading: <reference osisRef="Job.28">Job 28</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.14">1 Corinthians 14</reference>
+$$$02.28
+<lb/>Family Reading: <reference osisRef="Exod.11">Exodus 11</reference>, <reference osisRef="Exod.12.1-Exod.12.21">12:1-21</reference>
+<lb/>Family Reading: <reference osisRef="Luke.14">Luke 14</reference>
+<lb/>Secret Reading: <reference osisRef="Job.29">Job 29</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.15">1 Corinthians 15</reference>
+$$$02.29
+<lb/>Please visit the <a href="https://www.mcheyne.info/">Robert Murray M‘Cheyne Resources</a> website.
+<lb/>NB. <hi type="italic">M‘Cheyne did not include any readings for Leap Year Day.</hi>
+$$$03.00
+<title type="main" level="1" subType="x-month">MARCH<title type="sub" level="2">MARY KEPT ALL THESE THINGS, AND PONDERED THEM IN HER HEART.</title></title>
+$$$03.01
+<lb/>Family Reading: <reference osisRef="Exod.12.22-Exod.12.51">Exodus 12:22-51</reference>
+<lb/>Family Reading: <reference osisRef="Luke.15">Luke 15</reference>
+<lb/>Secret Reading: <reference osisRef="Job.30">Job 30</reference>
+<lb/>Secret Reading: <reference osisRef="1Cor.16">1 Corinthians 16</reference>
+$$$03.02
+<lb/>Family Reading: <reference osisRef="Exod.13">Exodus 13</reference>
+<lb/>Family Reading: <reference osisRef="Luke.16">Luke 16</reference>
+<lb/>Secret Reading: <reference osisRef="Job.31">Job 31</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.1">2 Corinthians 1</reference>
+$$$03.03
+<lb/>Family Reading: <reference osisRef="Exod.14">Exodus 14</reference>
+<lb/>Family Reading: <reference osisRef="Luke.17">Luke 17</reference>
+<lb/>Secret Reading: <reference osisRef="Job.32">Job 32</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.2">2 Corinthians 2</reference>
+$$$03.04
+<lb/>Family Reading: <reference osisRef="Exod.15">Exodus 15</reference>
+<lb/>Family Reading: <reference osisRef="Luke.18">Luke 18</reference>
+<lb/>Secret Reading: <reference osisRef="Job.33">Job 33</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.3">2 Corinthians 3</reference>
+$$$03.05
+<lb/>Family Reading: <reference osisRef="Exod.16">Exodus 16</reference>
+<lb/>Family Reading: <reference osisRef="Luke.19">Luke 19</reference>
+<lb/>Secret Reading: <reference osisRef="Job.34">Job 34</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.4">2 Corinthians 4</reference>
+$$$03.06
+<lb/>Family Reading: <reference osisRef="Exod.17">Exodus 17</reference>
+<lb/>Family Reading: <reference osisRef="Luke.20">Luke 20</reference>
+<lb/>Secret Reading: <reference osisRef="Job.35">Job 35</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.5">2 Corinthians 5</reference>
+$$$03.07
+<lb/>Family Reading: <reference osisRef="Exod.18">Exodus 18</reference>
+<lb/>Family Reading: <reference osisRef="Luke.21">Luke 21</reference>
+<lb/>Secret Reading: <reference osisRef="Job.36">Job 36</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.6">2 Corinthians 6</reference>
+$$$03.08
+<lb/>Family Reading: <reference osisRef="Exod.19">Exodus 19</reference>
+<lb/>Family Reading: <reference osisRef="Luke.22">Luke 22</reference>
+<lb/>Secret Reading: <reference osisRef="Job.37">Job 37</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.7">2 Corinthians 7</reference>
+$$$03.09
+<lb/>Family Reading: <reference osisRef="Exod.20">Exodus 20</reference>
+<lb/>Family Reading: <reference osisRef="Luke.23">Luke 23</reference>
+<lb/>Secret Reading: <reference osisRef="Job.38">Job 38</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.8">2 Corinthians 8</reference>
+$$$03.10
+<lb/>Family Reading: <reference osisRef="Exod.21">Exodus 21</reference>
+<lb/>Family Reading: <reference osisRef="Luke.24">Luke 24</reference>
+<lb/>Secret Reading: <reference osisRef="Job.39">Job 39</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.9">2 Corinthians 9</reference>
+$$$03.11
+<lb/>Family Reading: <reference osisRef="Exod.22">Exodus 22</reference>
+<lb/>Family Reading: <reference osisRef="John.1">John 1</reference>
+<lb/>Secret Reading: <reference osisRef="Job.40">Job 40</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.10">2 Corinthians 10</reference>
+$$$03.12
+<lb/>Family Reading: <reference osisRef="Exod.23">Exodus 23</reference>
+<lb/>Family Reading: <reference osisRef="John.2">John 2</reference>
+<lb/>Secret Reading: <reference osisRef="Job.41">Job 41</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.11">2 Corinthians 11</reference>
+$$$03.13
+<lb/>Family Reading: <reference osisRef="Exod.24">Exodus 24</reference>
+<lb/>Family Reading: <reference osisRef="John.3">John 3</reference>
+<lb/>Secret Reading: <reference osisRef="Job.42">Job 42</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.12">2 Corinthians 12</reference>
+$$$03.14
+<lb/>Family Reading: <reference osisRef="Exod.25">Exodus 25</reference>
+<lb/>Family Reading: <reference osisRef="John.4">John 4</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.1">Proverbs 1</reference>
+<lb/>Secret Reading: <reference osisRef="2Cor.13">2 Corinthians 13</reference>
+$$$03.15
+<lb/>Family Reading: <reference osisRef="Exod.26">Exodus 26</reference>
+<lb/>Family Reading: <reference osisRef="John.5">John 5</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.2">Proverbs 2</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.1">Galatians 1</reference>
+$$$03.16
+<lb/>Family Reading: <reference osisRef="Exod.27">Exodus 27</reference>
+<lb/>Family Reading: <reference osisRef="John.6">John 6</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.3">Proverbs 3</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.2">Galatians 2</reference>
+$$$03.17
+<lb/>Family Reading: <reference osisRef="Exod.28">Exodus 28</reference>
+<lb/>Family Reading: <reference osisRef="John.7">John 7</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.4">Proverbs 4</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.3">Galatians 3</reference>
+$$$03.18
+<lb/>Family Reading: <reference osisRef="Exod.29">Exodus 29</reference>
+<lb/>Family Reading: <reference osisRef="John.8">John 8</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.5">Proverbs 5</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.4">Galatians 4</reference>
+$$$03.19
+<lb/>Family Reading: <reference osisRef="Exod.30">Exodus 30</reference>
+<lb/>Family Reading: <reference osisRef="John.9">John 9</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.6">Proverbs 6</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.5">Galatians 5</reference>
+$$$03.20
+<lb/>Family Reading: <reference osisRef="Exod.31">Exodus 31</reference>
+<lb/>Family Reading: <reference osisRef="John.10">John 10</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.7">Proverbs 7</reference>
+<lb/>Secret Reading: <reference osisRef="Gal.6">Galatians 6</reference>
+$$$03.21
+<lb/>Family Reading: <reference osisRef="Exod.32">Exodus 32</reference>
+<lb/>Family Reading: <reference osisRef="John.11">John 11</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.8">Proverbs 8</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.1">Ephesians 1</reference>
+$$$03.22
+<lb/>Family Reading: <reference osisRef="Exod.33">Exodus 33</reference>
+<lb/>Family Reading: <reference osisRef="John.12">John 12</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.9">Proverbs 9</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.2">Ephesians 2</reference>
+$$$03.23
+<lb/>Family Reading: <reference osisRef="Exod.34">Exodus 34</reference>
+<lb/>Family Reading: <reference osisRef="John.13">John 13</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.10">Proverbs 10</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.3">Ephesians 3</reference>
+$$$03.24
+<lb/>Family Reading: <reference osisRef="Exod.35">Exodus 35</reference>
+<lb/>Family Reading: <reference osisRef="John.14">John 14</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.11">Proverbs 11</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.4">Ephesians 4</reference>
+$$$03.25
+<lb/>Family Reading: <reference osisRef="Exod.36">Exodus 36</reference>
+<lb/>Family Reading: <reference osisRef="John.15">John 15</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.12">Proverbs 12</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.5">Ephesians 5</reference>
+$$$03.26
+<lb/>Family Reading: <reference osisRef="Exod.37">Exodus 37</reference>
+<lb/>Family Reading: <reference osisRef="John.16">John 16</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.13">Proverbs 13</reference>
+<lb/>Secret Reading: <reference osisRef="Eph.6">Ephesians 6</reference>
+$$$03.27
+<lb/>Family Reading: <reference osisRef="Exod.38">Exodus 38</reference>
+<lb/>Family Reading: <reference osisRef="John.17">John 17</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.14">Proverbs 14</reference>
+<lb/>Secret Reading: <reference osisRef="Phil.1">Philippians 1</reference>
+$$$03.28
+<lb/>Family Reading: <reference osisRef="Exod.39">Exodus 39</reference>
+<lb/>Family Reading: <reference osisRef="John.18">John 18</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.15">Proverbs 15</reference>
+<lb/>Secret Reading: <reference osisRef="Phil.2">Philippians 2</reference>
+$$$03.29
+<lb/>Family Reading: <reference osisRef="Exod.40">Exodus 40</reference>
+<lb/>Family Reading: <reference osisRef="John.19">John 19</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.16">Proverbs 16</reference>
+<lb/>Secret Reading: <reference osisRef="Phil.3">Philippians 3</reference>
+$$$03.30
+<lb/>Family Reading: <reference osisRef="Lev.1">Leviticus 1</reference>
+<lb/>Family Reading: <reference osisRef="John.20">John 20</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.17">Proverbs 17</reference>
+<lb/>Secret Reading: <reference osisRef="Phil.4">Philippians 4</reference>
+$$$03.31
+<lb/>Family Reading: <reference osisRef="Lev.2">Leviticus 2</reference>, <reference osisRef="Lev.3">3</reference>
+<lb/>Family Reading: <reference osisRef="John.21">John 21</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.18">Proverbs 18</reference>
+<lb/>Secret Reading: <reference osisRef="Col.1">Colossians 1</reference>
+$$$04.00
+<title type="main" level="1" subType="x-month">APRIL<title type="sub" level="2">O SEND OUT THY LIGHT AND THY TRUTH ! LET THEM LEAD ME.</title></title>
+$$$04.01
+<lb/>Family Reading: <reference osisRef="Lev.4">Leviticus 4</reference>
+<lb/>Family Reading: <reference osisRef="Ps.1">Psalms 1</reference>, <reference osisRef="Ps.2">2</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.19">Proverbs 19</reference>
+<lb/>Secret Reading: <reference osisRef="Col.2">Colossians 2</reference>
+$$$04.02
+<lb/>Family Reading: <reference osisRef="Lev.5">Leviticus 5</reference>
+<lb/>Family Reading: <reference osisRef="Ps.3">Psalms 3</reference>, <reference osisRef="Ps.4">4</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.20">Proverbs 20</reference>
+<lb/>Secret Reading: <reference osisRef="Col.3">Colossians 3</reference>
+$$$04.03
+<lb/>Family Reading: <reference osisRef="Lev.6">Leviticus 6</reference>
+<lb/>Family Reading: <reference osisRef="Ps.5">Psalms 5</reference>, <reference osisRef="Ps.6">6</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.21">Proverbs 21</reference>
+<lb/>Secret Reading: <reference osisRef="Col.4">Colossians 4</reference>
+$$$04.04
+<lb/>Family Reading: <reference osisRef="Lev.7">Leviticus 7</reference>
+<lb/>Family Reading: <reference osisRef="Ps.7">Psalms 7</reference>, <reference osisRef="Ps.8">8</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.22">Proverbs 22</reference>
+<lb/>Secret Reading: <reference osisRef="1Thess.1">1 Thessalonians 1</reference>
+$$$04.05
+<lb/>Family Reading: <reference osisRef="Lev.8">Leviticus 8</reference>
+<lb/>Family Reading: <reference osisRef="Ps.9">Psalms 9</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.23">Proverbs 23</reference>
+<lb/>Secret Reading: <reference osisRef="1Thess.2">1 Thessalonians 2</reference>
+$$$04.06
+<lb/>Family Reading: <reference osisRef="Lev.9">Leviticus 9</reference>
+<lb/>Family Reading: <reference osisRef="Ps.10">Psalms 10</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.24">Proverbs 24</reference>
+<lb/>Secret Reading: <reference osisRef="1Thess.3">1 Thessalonians 3</reference>
+$$$04.07
+<lb/>Family Reading: <reference osisRef="Lev.10">Leviticus 10</reference>
+<lb/>Family Reading: <reference osisRef="Ps.11">Psalms 11</reference>, <reference osisRef="Ps.12">12</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.25">Proverbs 25</reference>
+<lb/>Secret Reading: <reference osisRef="1Thess.4">1 Thessalonians 4</reference>
+$$$04.08
+<lb/>Family Reading: <reference osisRef="Lev.11">Leviticus 11</reference>, <reference osisRef="Lev.12">12</reference>
+<lb/>Family Reading: <reference osisRef="Ps.13">Psalms 13</reference>, <reference osisRef="Ps.14">14</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.26">Proverbs 26</reference>
+<lb/>Secret Reading: <reference osisRef="1Thess.5">1 Thessalonians 5</reference>
+$$$04.09
+<lb/>Family Reading: <reference osisRef="Lev.13">Leviticus 13</reference>
+<lb/>Family Reading: <reference osisRef="Ps.15">Psalms 15</reference>, <reference osisRef="Ps.16">16</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.27">Proverbs 27</reference>
+<lb/>Secret Reading: <reference osisRef="2Thess.1">2 Thessalonians 1</reference>
+$$$04.10
+<lb/>Family Reading: <reference osisRef="Lev.14">Leviticus 14</reference>
+<lb/>Family Reading: <reference osisRef="Ps.17">Psalms 17</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.28">Proverbs 28</reference>
+<lb/>Secret Reading: <reference osisRef="2Thess.2">2 Thessalonians 2</reference>
+$$$04.11
+<lb/>Family Reading: <reference osisRef="Lev.15">Leviticus 15</reference>
+<lb/>Family Reading: <reference osisRef="Ps.18">Psalms 18</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.29">Proverbs 29</reference>
+<lb/>Secret Reading: <reference osisRef="2Thess.3">2 Thessalonians 3</reference>
+$$$04.12
+<lb/>Family Reading: <reference osisRef="Lev.16">Leviticus 16</reference>
+<lb/>Family Reading: <reference osisRef="Ps.19">Psalms 19</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.30">Proverbs 30</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.1">1 Timothy 1</reference>
+$$$04.13
+<lb/>Family Reading: <reference osisRef="Lev.17">Leviticus 17</reference>
+<lb/>Family Reading: <reference osisRef="Ps.20">Psalms 20</reference>, <reference osisRef="Ps.21">21</reference>
+<lb/>Secret Reading: <reference osisRef="Prov.31">Proverbs 31</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.2">1 Timothy 2</reference>
+$$$04.14
+<lb/>Family Reading: <reference osisRef="Lev.18">Leviticus 18</reference>
+<lb/>Family Reading: <reference osisRef="Ps.22">Psalms 22</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.1">Ecclesiastes 1</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.3">1 Timothy 3</reference>
+$$$04.15
+<lb/>Family Reading: <reference osisRef="Lev.19">Leviticus 19</reference>
+<lb/>Family Reading: <reference osisRef="Ps.23">Psalms 23</reference>, <reference osisRef="Ps.24">24</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.2">Ecclesiastes 2</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.4">1 Timothy 4</reference>
+$$$04.16
+<lb/>Family Reading: <reference osisRef="Lev.20">Leviticus 20</reference>
+<lb/>Family Reading: <reference osisRef="Ps.25">Psalms 25</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.3">Ecclesiastes 3</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.5">1 Timothy 5</reference>
+$$$04.17
+<lb/>Family Reading: <reference osisRef="Lev.21">Leviticus 21</reference>
+<lb/>Family Reading: <reference osisRef="Ps.26">Psalms 26</reference>, <reference osisRef="Ps.27">27</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.4">Ecclesiastes 4</reference>
+<lb/>Secret Reading: <reference osisRef="1Tim.6">1 Timothy 6</reference>
+$$$04.18
+<lb/>Family Reading: <reference osisRef="Lev.22">Leviticus 22</reference>
+<lb/>Family Reading: <reference osisRef="Ps.28">Psalms 28</reference>, <reference osisRef="Ps.29">29</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.5">Ecclesiastes 5</reference>
+<lb/>Secret Reading: <reference osisRef="2Tim.1">2 Timothy 1</reference>
+$$$04.19
+<lb/>Family Reading: <reference osisRef="Lev.23">Leviticus 23</reference>
+<lb/>Family Reading: <reference osisRef="Ps.30">Psalms 30</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.6">Ecclesiastes 6</reference>
+<lb/>Secret Reading: <reference osisRef="2Tim.2">2 Timothy 2</reference>
+$$$04.20
+<lb/>Family Reading: <reference osisRef="Lev.24">Leviticus 24</reference>
+<lb/>Family Reading: <reference osisRef="Ps.31">Psalms 31</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.7">Ecclesiastes 7</reference>
+<lb/>Secret Reading: <reference osisRef="2Tim.3">2 Timothy 3</reference>
+$$$04.21
+<lb/>Family Reading: <reference osisRef="Lev.25">Leviticus 25</reference>
+<lb/>Family Reading: <reference osisRef="Ps.32">Psalms 32</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.8">Ecclesiastes 8</reference>
+<lb/>Secret Reading: <reference osisRef="2Tim.4">2 Timothy 4</reference>
+$$$04.22
+<lb/>Family Reading: <reference osisRef="Lev.26">Leviticus 26</reference>
+<lb/>Family Reading: <reference osisRef="Ps.33">Psalms 33</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.9">Ecclesiastes 9</reference>
+<lb/>Secret Reading: <reference osisRef="Titus.1">Titus 1</reference>
+$$$04.23
+<lb/>Family Reading: <reference osisRef="Lev.27">Leviticus 27</reference>
+<lb/>Family Reading: <reference osisRef="Ps.34">Psalms 34</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.10">Ecclesiastes 10</reference>
+<lb/>Secret Reading: <reference osisRef="Titus.2">Titus 2</reference>
+$$$04.24
+<lb/>Family Reading: <reference osisRef="Num.1">Numbers 1</reference>
+<lb/>Family Reading: <reference osisRef="Ps.35">Psalms 35</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.11">Ecclesiastes 11</reference>
+<lb/>Secret Reading: <reference osisRef="Titus.3">Titus 3</reference>
+$$$04.25
+<lb/>Family Reading: <reference osisRef="Num.2">Numbers 2</reference>
+<lb/>Family Reading: <reference osisRef="Ps.36">Psalms 36</reference>
+<lb/>Secret Reading: <reference osisRef="Eccl.12">Ecclesiastes 12</reference>
+<lb/>Secret Reading: <reference osisRef="Phlm.1">Philemon</reference>
+$$$04.26
+<lb/>Family Reading: <reference osisRef="Num.3">Numbers 3</reference>
+<lb/>Family Reading: <reference osisRef="Ps.37">Psalms 37</reference>
+<lb/>Secret Reading: <reference osisRef="Song.1">Song of Solomon 1</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.1">Hebrews 1</reference>
+$$$04.27
+<lb/>Family Reading: <reference osisRef="Num.4">Numbers 4</reference>
+<lb/>Family Reading: <reference osisRef="Ps.38">Psalms 38</reference>
+<lb/>Secret Reading: <reference osisRef="Song.2">Song of Solomon 2</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.2">Hebrews 2</reference>
+$$$04.28
+<lb/>Family Reading: <reference osisRef="Num.5">Numbers 5</reference>
+<lb/>Family Reading: <reference osisRef="Ps.39">Psalms 39</reference>
+<lb/>Secret Reading: <reference osisRef="Song.3">Song of Solomon 3</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.3">Hebrews 3</reference>
+$$$04.29
+<lb/>Family Reading: <reference osisRef="Num.6">Numbers 6</reference>
+<lb/>Family Reading: <reference osisRef="Ps.40">Psalms 40</reference>, <reference osisRef="Ps.41">41</reference>
+<lb/>Secret Reading: <reference osisRef="Song.4">Song of Solomon 4</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.4">Hebrews 4</reference>
+$$$04.30
+<lb/>Family Reading: <reference osisRef="Num.7">Numbers 7</reference>
+<lb/>Family Reading: <reference osisRef="Ps.42">Psalms 42</reference>, <reference osisRef="Ps.43">43</reference>
+<lb/>Secret Reading: <reference osisRef="Song.5">Song of Solomon 5</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.5">Hebrews 5</reference>
+$$$05.00
+<title type="main" level="1" subType="x-month">MAY<title type="sub" level="2">FROM A CHILD THOU HAS KNOWN THE SCRIPTURES.</title></title>
+$$$05.01
+<lb/>Family Reading: <reference osisRef="Num.8"> Numbers 8</reference>
+<lb/>Family Reading: <reference osisRef="Ps.44">Psalms 44</reference>
+<lb/>Secret Reading: <reference osisRef="Song.6">Song of Solomon 6</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.6">Hebrews 6</reference>
+$$$05.02
+<lb/>Family Reading: <reference osisRef="Num.9">Numbers 9</reference>
+<lb/>Family Reading: <reference osisRef="Ps.45">Psalms 45</reference>
+<lb/>Secret Reading: <reference osisRef="Song.7">Song of Solomon 7</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.7">Hebrews 7</reference>
+$$$05.03
+<lb/>Family Reading: <reference osisRef="Num.10">Numbers 10</reference>
+<lb/>Family Reading: <reference osisRef="Ps.46">Psalms 46</reference>, <reference osisRef="Ps.47">47</reference>
+<lb/>Secret Reading: <reference osisRef="Song.8">Song of Solomon 8</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.8">Hebrews 8</reference>
+$$$05.04
+<lb/>Family Reading: <reference osisRef="Num.11">Numbers 11</reference>
+<lb/>Family Reading: <reference osisRef="Ps.48">Psalms 48</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.1">Isaiah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.9">Hebrews 9</reference>
+$$$05.05
+<lb/>Family Reading: <reference osisRef="Num.12">Numbers 12</reference>, <reference osisRef="Num.13">13</reference>
+<lb/>Family Reading: <reference osisRef="Ps.49">Psalms 49</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.2">Isaiah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.10">Hebrews 10</reference>
+$$$05.06
+<lb/>Family Reading: <reference osisRef="Num.14">Numbers 14</reference>
+<lb/>Family Reading: <reference osisRef="Ps.50">Psalms 50</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.3">Isaiah 3</reference>, <reference osisRef="Isa.4">4</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.11">Hebrews 11</reference>
+$$$05.07
+<lb/>Family Reading: <reference osisRef="Num.15">Numbers 15</reference>
+<lb/>Family Reading: <reference osisRef="Ps.51">Psalms 51</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.5">Isaiah 5</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.12">Hebrews 12</reference>
+$$$05.08
+<lb/>Family Reading: <reference osisRef="Num.16">Numbers 16</reference>
+<lb/>Family Reading: <reference osisRef="Ps.52">Psalms 52</reference>, <reference osisRef="Ps.53">53</reference>, <reference osisRef="Ps.54">Psalms 54</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.6">Isaiah 6</reference>
+<lb/>Secret Reading: <reference osisRef="Heb.13">Hebrews 13</reference>
+$$$05.09
+<lb/>Family Reading: <reference osisRef="Num.17">Numbers 17</reference>, <reference osisRef="Num.18">18</reference>
+<lb/>Family Reading: <reference osisRef="Ps.55">Psalms 55</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.7">Isaiah 7</reference>
+<lb/>Secret Reading: <reference osisRef="Jas.1">James 1</reference>
+$$$05.10
+<lb/>Family Reading: <reference osisRef="Num.19">Numbers 19</reference>
+<lb/>Family Reading: <reference osisRef="Ps.56">Psalms 56</reference>, <reference osisRef="Ps.57">57</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.8">Isaiah 8</reference>, <reference osisRef="Isa.9.1-Isa.9.7">9:1-7</reference>
+<lb/>Secret Reading: <reference osisRef="Jas.2">James 2</reference>
+$$$05.11
+<lb/>Family Reading: <reference osisRef="Num.20">Numbers 20</reference>
+<lb/>Family Reading: <reference osisRef="Ps.58">Psalms 58</reference>, <reference osisRef="Ps.59">59</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.9.7-Isa.9.21">Isaiah 9:7-21</reference>, <reference osisRef="Isa.10.1-Isa.10-4">10:1-4</reference>
+<lb/>Secret Reading: <reference osisRef="Jas.3">James 3</reference>
+$$$05.12
+<lb/>Family Reading: <reference osisRef="Num.21">Numbers 21</reference>
+<lb/>Family Reading: <reference osisRef="Ps.60">Psalms 60</reference>, <reference osisRef="Ps.61">61</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.10.5-Isa.10.34">Isaiah 10:5-34</reference>
+<lb/>Secret Reading: <reference osisRef="Jas.4">James 4</reference>
+$$$05.13
+<lb/>Family Reading: <reference osisRef="Num.22">Numbers 22</reference>
+<lb/>Family Reading: <reference osisRef="Ps.62">Psalms 62</reference>, <reference osisRef="Ps.63">63</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.11">Isaiah 11</reference>, <reference osisRef="Isa.12">12</reference>
+<lb/>Secret Reading: <reference osisRef="Jas.5">James 5</reference>
+$$$05.14
+<lb/>Family Reading: <reference osisRef="Num.23">Numbers 23</reference>
+<lb/>Family Reading: <reference osisRef="Ps.64">Psalms 64</reference>, <reference osisRef="Ps.65">65</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.13">Isaiah 13</reference>
+<lb/>Secret Reading: <reference osisRef="1Pet.1">1 Peter 1</reference>
+$$$05.15
+<lb/>Family Reading: <reference osisRef="Num.24">Numbers 24</reference>
+<lb/>Family Reading: <reference osisRef="Ps.66">Psalms 66</reference>, <reference osisRef="Ps.67">67</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.14">Isaiah 14</reference>
+<lb/>Secret Reading: <reference osisRef="1Pet.2">1 Peter 2</reference>
+$$$05.16
+<lb/>Family Reading: <reference osisRef="Num.25">Numbers 25</reference>
+<lb/>Family Reading: <reference osisRef="Ps.68">Psalms 68</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.15">Isaiah 15</reference>
+<lb/>Secret Reading: <reference osisRef="1Pet.3">1 Peter 3</reference>
+$$$05.17
+<lb/>Family Reading: <reference osisRef="Num.26">Numbers 26</reference>
+<lb/>Family Reading: <reference osisRef="Ps.69">Psalms 69</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.16">Isaiah 16</reference>
+<lb/>Secret Reading: <reference osisRef="1Pet.4">1 Peter 4</reference>
+$$$05.18
+<lb/>Family Reading: <reference osisRef="Num.27">Numbers 27</reference>
+<lb/>Family Reading: <reference osisRef="Ps.70">Psalms 70</reference>, <reference osisRef="Ps.71">71</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.17">Isaiah 17</reference>, <reference osisRef="Isa.18">18</reference>
+<lb/>Secret Reading: <reference osisRef="1Pet.5">1 Peter 5</reference>
+$$$05.19
+<lb/>Family Reading: <reference osisRef="Num.28">Numbers 28</reference>
+<lb/>Family Reading: <reference osisRef="Ps.72">Psalms 72</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.19">Isaiah 19</reference>, <reference osisRef="Isa.20">20</reference>
+<lb/>Secret Reading: <reference osisRef="2Pet.1">2 Peter 1</reference>
+$$$05.20
+<lb/>Family Reading: <reference osisRef="Num.29">Numbers 29</reference>
+<lb/>Family Reading: <reference osisRef="Ps.73">Psalms 73</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.21">Isaiah 21</reference>
+<lb/>Secret Reading: <reference osisRef="2Pet.2">2 Peter 2</reference>
+$$$05.21
+<lb/>Family Reading: <reference osisRef="Num.30">Numbers 30</reference>
+<lb/>Family Reading: <reference osisRef="Ps.74">Psalms 74</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.22">Isaiah 22</reference>
+<lb/>Secret Reading: <reference osisRef="2Pet.3">2 Peter 3</reference>
+$$$05.22
+<lb/>Family Reading: <reference osisRef="Num.31">Numbers 31</reference>
+<lb/>Family Reading: <reference osisRef="Ps.75">Psalms 75</reference>, <reference osisRef="Ps.76">76</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.23">Isaiah 23</reference>
+<lb/>Secret Reading: <reference osisRef="1John.1">1 John 1</reference>
+$$$05.23
+<lb/>Family Reading: <reference osisRef="Num.32">Numbers 32</reference>
+<lb/>Family Reading: <reference osisRef="Ps.77">Psalms 77</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.24">Isaiah 24</reference>
+<lb/>Secret Reading: <reference osisRef="1John.2">1 John 2</reference>
+$$$05.24
+<lb/>Family Reading: <reference osisRef="Num.33">Numbers 33</reference>
+<lb/>Family Reading: <reference osisRef="Ps.78.1-Ps.78.37">Psalms 78:1-37</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.25">Isaiah 25</reference>
+<lb/>Secret Reading: <reference osisRef="1John.3">1 John 3</reference>
+$$$05.25
+<lb/>Family Reading: <reference osisRef="Num.34">Numbers 34</reference>
+<lb/>Family Reading: <reference osisRef="Ps.78.38-Ps.78.72">Psalms 78:38-72</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.26">Isaiah 26</reference>
+<lb/>Secret Reading: <reference osisRef="1John.4">1 John 4</reference>
+$$$05.26
+<lb/>Family Reading: <reference osisRef="Num.35">Numbers 35</reference>
+<lb/>Family Reading: <reference osisRef="Ps.79">Psalms 79</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.27">Isaiah 27</reference>
+<lb/>Secret Reading: <reference osisRef="1John.5">1 John 5</reference>
+$$$05.27
+<lb/>Family Reading: <reference osisRef="Num.36">Numbers 36</reference>
+<lb/>Family Reading: <reference osisRef="Ps.80">Psalms 80</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.28">Isaiah 28</reference>
+<lb/>Secret Reading: <reference osisRef="2John.1">2 John</reference>
+$$$05.28
+<lb/>Family Reading: <reference osisRef="Deut.1">Deuteronomy 1</reference>
+<lb/>Family Reading: <reference osisRef="Ps.81">Psalms 81</reference>, <reference osisRef="Ps.82">82</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.29">Isaiah 29</reference>
+<lb/>Secret Reading: <reference osisRef="3John.1">3 John</reference>
+$$$05.29
+<lb/>Family Reading: <reference osisRef="Deut.2">Deuteronomy 2</reference>
+<lb/>Family Reading: <reference osisRef="Ps.83">Psalms 83</reference>, <reference osisRef="Ps.84">84</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.30">Isaiah 30</reference>
+<lb/>Secret Reading: <reference osisRef="Jude.1">Jude</reference>
+$$$05.30
+<lb/>Family Reading: <reference osisRef="Deut.3">Deuteronomy 3</reference>
+<lb/>Family Reading: <reference osisRef="Ps.85">Psalms 85</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.31">Isaiah 31</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.1">Revelation 1</reference>
+$$$05.31
+<lb/>Family Reading: <reference osisRef="Deut.4">Deuteronomy 4</reference>
+<lb/>Family Reading: <reference osisRef="Ps.86">Psalms 86</reference>, <reference osisRef="Ps.87">87</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.32">Isaiah 32</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.2">Revelation 2</reference>
+$$$06.00
+<title type="main" level="1" subType="x-month">JUNE<title type="sub" level="2">BLESSED IS HE THAT READETH AND THEY THAT HEAR.</title></title>
+$$$06.01
+<lb/>Family Reading: <reference osisRef="Deut.5">Deuteronomy 5</reference>
+<lb/>Family Reading: <reference osisRef="Ps.88">Psalms 88</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.33">Isaiah 33</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.3">Revelation 3</reference>
+$$$06.02
+<lb/>Family Reading: <reference osisRef="Deut.6">Deuteronomy 6</reference>
+<lb/>Family Reading: <reference osisRef="Ps.89">Psalms 89</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.34">Isaiah 34</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.4">Revelation 4</reference>
+$$$06.03
+<lb/>Family Reading: <reference osisRef="Deut.7">Deuteronomy 7</reference>
+<lb/>Family Reading: <reference osisRef="Ps.90">Psalms 90</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.35">Isaiah 35</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.5">Revelation 5</reference>
+$$$06.04
+<lb/>Family Reading: <reference osisRef="Deut.8">Deuteronomy 8</reference>
+<lb/>Family Reading: <reference osisRef="Ps.91">Psalms 91</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.36">Isaiah 36</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.6">Revelation 6</reference>
+$$$06.05
+<lb/>Family Reading: <reference osisRef="Deut.9">Deuteronomy 9</reference>
+<lb/>Family Reading: <reference osisRef="Ps.92">Psalms 92</reference>, <reference osisRef="Ps.93">93</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.37">Isaiah 37</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.7">Revelation 7</reference>
+$$$06.06
+<lb/>Family Reading: <reference osisRef="Deut.10">Deuteronomy 10</reference>
+<lb/>Family Reading: <reference osisRef="Ps.94">Psalms 94</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.38">Isaiah 38</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.8">Revelation 8</reference>
+$$$06.07
+<lb/>Family Reading: <reference osisRef="Deut.11">Deuteronomy 11</reference>
+<lb/>Family Reading: <reference osisRef="Ps.95">Psalms 95</reference>, <reference osisRef="Ps.96">96</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.39">Isaiah 39</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.9">Revelation 9</reference>
+$$$06.08
+<lb/>Family Reading: <reference osisRef="Deut.12">Deuteronomy 12</reference>
+<lb/>Family Reading: <reference osisRef="Ps.97">Psalms 97</reference>, <reference osisRef="Ps.98">98</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.40">Isaiah 40</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.10">Revelation 10</reference>
+$$$06.09
+<lb/>Family Reading: <reference osisRef="Deut.13">Deuteronomy 13</reference>, <reference osisRef="Deut.14">14</reference>
+<lb/>Family Reading: <reference osisRef="Ps.99">Psalms 99</reference>, <reference osisRef="Ps.100">100</reference>, <reference osisRef="Ps.101">101</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.41">Isaiah 41</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.11">Revelation 11</reference>
+$$$06.10
+<lb/>Family Reading: <reference osisRef="Deut.15">Deuteronomy 15</reference>
+<lb/>Family Reading: <reference osisRef="Ps.102">Psalms 102</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.42">Isaiah 42</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.12">Revelation 12</reference>
+$$$06.11
+<lb/>Family Reading: <reference osisRef="Deut.16">Deuteronomy 16</reference>
+<lb/>Family Reading: <reference osisRef="Ps.103">Psalms 103</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.43">Isaiah 43</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.13">Revelation 13</reference>
+$$$06.12
+<lb/>Family Reading: <reference osisRef="Deut.17">Deuteronomy 17</reference>
+<lb/>Family Reading: <reference osisRef="Ps.104">Psalms 104</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.44">Isaiah 44</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.14">Revelation 14</reference>
+$$$06.13
+<lb/>Family Reading: <reference osisRef="Deut.18">Deuteronomy 18</reference>
+<lb/>Family Reading: <reference osisRef="Ps.105">Psalms 105</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.45">Isaiah 45</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.15">Revelation 15</reference>
+$$$06.14
+<lb/>Family Reading: <reference osisRef="Deut.19">Deuteronomy 19</reference>
+<lb/>Family Reading: <reference osisRef="Ps.106">Psalms 106</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.46">Isaiah 46</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.16">Revelation 16</reference>
+$$$06.15
+<lb/>Family Reading: <reference osisRef="Deut.20">Deuteronomy 20</reference>
+<lb/>Family Reading: <reference osisRef="Ps.107">Psalms 107</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.47">Isaiah 47</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.17">Revelation 17</reference>
+$$$06.16
+<lb/>Family Reading: <reference osisRef="Deut.21">Deuteronomy 21</reference>
+<lb/>Family Reading: <reference osisRef="Ps.108">Psalms 108</reference>, <reference osisRef="Ps.109">109</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.48">Isaiah 48</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.18">Revelation 18</reference>
+$$$06.17
+<lb/>Family Reading: <reference osisRef="Deut.22">Deuteronomy 22</reference>
+<lb/>Family Reading: <reference osisRef="Ps.110">Psalms 110</reference>, <reference osisRef="Ps.111">111</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.49">Isaiah 49</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.19">Revelation 19</reference>
+$$$06.18
+<lb/>Family Reading: <reference osisRef="Deut.23">Deuteronomy 23</reference>
+<lb/>Family Reading: <reference osisRef="Ps.112">Psalms 112</reference>, <reference osisRef="Ps.113">113</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.50">Isaiah 50</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.20">Revelation 20</reference>
+$$$06.19
+<lb/>Family Reading: <reference osisRef="Deut.24">Deuteronomy 24</reference>
+<lb/>Family Reading: <reference osisRef="Ps.114">Psalms 114</reference>, <reference osisRef="Ps.115">115</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.51">Isaiah 51</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.21">Revelation 21</reference>
+$$$06.20
+<lb/>Family Reading: <reference osisRef="Deut.25">Deuteronomy 25</reference>
+<lb/>Family Reading: <reference osisRef="Ps.116">Psalms 116</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.52">Isaiah 52</reference>
+<lb/>Secret Reading: <reference osisRef="Rev.22">Revelation 22</reference>
+$$$06.21
+<lb/>Family Reading: <reference osisRef="Deut.26">Deuteronomy 26</reference>
+<lb/>Family Reading: <reference osisRef="Ps.117">Psalms 117</reference>, <reference osisRef="Ps.118">118</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.53">Isaiah 53</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.1">Matthew 1</reference>
+$$$06.22
+<lb/>Family Reading: <reference osisRef="Deut.27">Deuteronomy 27</reference>, <reference osisRef="Deut.28.1-Deut..8.19">28:1-19</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.1-Ps.119-24">Psalms 119:1-24</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.54">Isaiah 54</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.2">Matthew 2</reference>
+$$$06.23
+<lb/>Family Reading: <reference osisRef="Deut.28.20-Deut.28.68">Deuteronomy 28:20-68</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.25-Ps.119.48">Psalms 119:25-48</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.55">Isaiah 55</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.3">Matthew 3</reference>
+$$$06.24
+<lb/>Family Reading: <reference osisRef="Deut.29">Deuteronomy 29</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.49-Ps.119.72">Psalms 119:49-72</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.56">Isaiah 56</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.4">Matthew 4</reference>
+$$$06.25
+<lb/>Family Reading: <reference osisRef="Deut.30">Deuteronomy 30</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.73-Ps.119.96">Psalms 119:73-96</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.57">Isaiah 57</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.5">Matthew 5</reference>
+$$$06.26
+<lb/>Family Reading: <reference osisRef="Deut.31">Deuteronomy 31</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.97-Ps.199.120">Psalms 119:97-120</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.58">Isaiah 58</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.6">Matthew 6</reference>
+$$$06.27
+<lb/>Family Reading: <reference osisRef="Deut.32">Deuteronomy 32</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.121-Ps.119.144">Psalms 119:121-144</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.59">Isaiah 59</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.7">Matthew 7</reference>
+$$$06.28
+<lb/>Family Reading: <reference osisRef="Deut.33">Deuteronomy 33</reference>, <reference osisRef="Deut.34">34</reference>
+<lb/>Family Reading: <reference osisRef="Ps.119.145-Ps.119.176">Psalms 119:145-176</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.60">Isaiah 60</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.8">Matthew 8</reference>
+$$$06.29
+<lb/>Family Reading: <reference osisRef="Josh.1">Joshua 1</reference>
+<lb/>Family Reading: <reference osisRef="Ps.120">Psalms 120</reference>, <reference osisRef="Ps.121">121</reference>, <reference osisRef="Ps.122">122</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.61">Isaiah 61</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.9">Matthew 9</reference>
+$$$06.30
+<lb/>Family Reading: <reference osisRef="Josh.2">Joshua 2</reference>
+<lb/>Family Reading: <reference osisRef="Ps.123">Psalms 123</reference>, <reference osisRef="Ps.124">124</reference>, <reference osisRef="Ps.125">125</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.62">Isaiah 62</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.10">Matthew 10</reference>
+$$$03.00
+<title type="main" level="1" subType="x-month">JULY<title type="sub" level="2">THEY RECEIVED THE WORD WITH ALL READINESS OF MIND, AND SEARCHED THE SCRIPTURES DAILY.</title></title>
+$$$07.01
+<lb/>Family Reading: <reference osisRef="Josh.3">Joshua 3</reference>
+<lb/>Family Reading: <reference osisRef="Ps.126">Psalms 126</reference>, <reference osisRef="Ps.127">127</reference>, <reference osisRef="Ps.128">128</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.63">Isaiah 63</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.11">Matthew 11</reference>
+$$$07.02
+<lb/>Family Reading: <reference osisRef="Josh.4">Joshua 4</reference>
+<lb/>Family Reading: <reference osisRef="Ps.129">Psalms 129</reference>, <reference osisRef="Ps.130">130</reference>, <reference osisRef="Ps.131">131</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.64">Isaiah 64</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.12">Matthew 12</reference>
+$$$07.03
+<lb/>Family Reading: <reference osisRef="Josh.5">Joshua 5</reference>, <reference osisRef="Josh.6.1-Josh.6.5">6:1-5</reference>
+<lb/>Family Reading: <reference osisRef="Ps.132">Psalms 132</reference>, <reference osisRef="Ps.133">133</reference>, <reference osisRef="Ps.134">134</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.65">Isaiah 65</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.13">Matthew 13</reference>
+$$$07.04
+<lb/>Family Reading: <reference osisRef="Josh.6.6-Josh.6.27">Joshua 6:6-27</reference>
+<lb/>Family Reading: <reference osisRef="Ps.135">Psalms 135</reference>, <reference osisRef="Ps.136">136</reference>
+<lb/>Secret Reading: <reference osisRef="Isa.66">Isaiah 66</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.14">Matthew 14</reference>
+$$$07.05
+<lb/>Family Reading: <reference osisRef="Josh.7">Joshua 7</reference>
+<lb/>Family Reading: <reference osisRef="Ps.137">Psalms 137</reference>, <reference osisRef="Ps.138">138</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.1">Jeremiah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.15">Matthew 15</reference>
+$$$07.06
+<lb/>Family Reading: <reference osisRef="Josh.8">Joshua 8</reference>
+<lb/>Family Reading: <reference osisRef="Ps.139">Psalms 139</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.2">Jeremiah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.16">Matthew 16</reference>
+$$$07.07
+<lb/>Family Reading: <reference osisRef="Josh.9">Joshua 9</reference>
+<lb/>Family Reading: <reference osisRef="Ps.140">Psalms 140</reference>, <reference osisRef="Ps.141">141</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.3">Jeremiah 3</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.17">Matthew 17</reference>
+$$$07.08
+<lb/>Family Reading: <reference osisRef="Josh.10">Joshua 10</reference>
+<lb/>Family Reading: <reference osisRef="Ps.142">Psalms 142</reference>, <reference osisRef="Ps.143">143</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.4">Jeremiah 4</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.18">Matthew 18</reference>
+$$$07.09
+<lb/>Family Reading: <reference osisRef="Josh.11">Joshua 11</reference>
+<lb/>Family Reading: <reference osisRef="Ps.144">Psalms 144</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.5">Jeremiah 5</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.19">Matthew 19</reference>
+$$$07.10
+<lb/>Family Reading: <reference osisRef="Josh.12">Joshua 12</reference>, <reference osisRef="Josh.13">13</reference>
+<lb/>Family Reading: <reference osisRef="Ps.145">Psalms 145</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.6">Jeremiah 6</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.20">Matthew 20</reference>
+$$$07.11
+<lb/>Family Reading: <reference osisRef="Josh.14">Joshua 14</reference>, <reference osisRef="Josh.15">15</reference>
+<lb/>Family Reading: <reference osisRef="Ps.146">Psalms 146</reference>, <reference osisRef="Ps.147">147</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.7">Jeremiah 7</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.21">Matthew 21</reference>
+$$$07.12
+<lb/>Family Reading: <reference osisRef="Josh.16">Joshua 16</reference>, <reference osisRef="Josh.17">17</reference>
+<lb/>Family Reading: <reference osisRef="Ps.148">Psalms 148</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.8">Jeremiah 8</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.22">Matthew 22</reference>
+$$$07.13
+<lb/>Family Reading: <reference osisRef="Josh.18">Joshua 18</reference>, <reference osisRef="Josh.19">19</reference>
+<lb/>Family Reading: <reference osisRef="Ps.149">Psalms 149</reference>, <reference osisRef="Ps.150">150</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.9">Jeremiah 9</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.23">Matthew 23</reference>
+$$$07.14
+<lb/>Family Reading: <reference osisRef="Josh.20">Joshua 20</reference>, <reference osisRef="Josh.21">21</reference>
+<lb/>Family Reading: <reference osisRef="Acts.1">Acts 1</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.10">Jeremiah 10</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.24">Matthew 24</reference>
+$$$07.15
+<lb/>Family Reading: <reference osisRef="Josh.22">Joshua 22</reference>
+<lb/>Family Reading: <reference osisRef="Acts.2">Acts 2</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.11">Jeremiah 11</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.25">Matthew 25</reference>
+$$$07.16
+<lb/>Family Reading: <reference osisRef="Josh.23">Joshua 23</reference>
+<lb/>Family Reading: <reference osisRef="Acts.3">Acts 3</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.12">Jeremiah 12</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.26">Matthew 26</reference>
+$$$07.17
+<lb/>Family Reading: <reference osisRef="Josh.24">Joshua 24</reference>
+<lb/>Family Reading: <reference osisRef="Acts.4">Acts 4</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.13">Jeremiah 13</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.27">Matthew 27</reference>
+$$$07.18
+<lb/>Family Reading: <reference osisRef="Judg.1">Judges 1</reference>
+<lb/>Family Reading: <reference osisRef="Acts.5">Acts 5</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.14">Jeremiah 14</reference>
+<lb/>Secret Reading: <reference osisRef="Matt.28">Matthew 28</reference>
+$$$07.19
+<lb/>Family Reading: <reference osisRef="Judg.2">Judges 2</reference>
+<lb/>Family Reading: <reference osisRef="Acts.6">Acts 6</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.15">Jeremiah 15</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.1">Mark 1</reference>
+$$$07.20
+<lb/>Family Reading: <reference osisRef="Judg.3">Judges 3</reference>
+<lb/>Family Reading: <reference osisRef="Acts.7">Acts 7</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.16">Jeremiah 16</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.2">Mark 2</reference>
+$$$07.21
+<lb/>Family Reading: <reference osisRef="Judg.4">Judges 4</reference>
+<lb/>Family Reading: <reference osisRef="Acts.8">Acts 8</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.17">Jeremiah 17</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.3">Mark 3</reference>
+$$$07.22
+<lb/>Family Reading: <reference osisRef="Judg.5">Judges 5</reference>
+<lb/>Family Reading: <reference osisRef="Acts.9">Acts 9</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.18">Jeremiah 18</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.4">Mark 4</reference>
+$$$07.23
+<lb/>Family Reading: <reference osisRef="Judg.6">Judges 6</reference>
+<lb/>Family Reading: <reference osisRef="Acts.10">Acts 10</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.19">Jeremiah 19</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.5">Mark 5</reference>
+$$$07.24
+<lb/>Family Reading: <reference osisRef="Judg.7">Judges 7</reference>
+<lb/>Family Reading: <reference osisRef="Acts.11">Acts 11</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.20">Jeremiah 20</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.6">Mark 6</reference>
+$$$07.25
+<lb/>Family Reading: <reference osisRef="Judg.8">Judges 8</reference>
+<lb/>Family Reading: <reference osisRef="Acts.12">Acts 12</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.21">Jeremiah 21</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.7">Mark 7</reference>
+$$$07.26
+<lb/>Family Reading: <reference osisRef="Judg.9">Judges 9</reference>
+<lb/>Family Reading: <reference osisRef="Acts.13">Acts 13</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.22">Jeremiah 22</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.8">Mark 8</reference>
+$$$07.27
+<lb/>Family Reading: <reference osisRef="Judg.10">Judges 10</reference>, <reference osisRef="Judg.11.1-Judg.11.11">11:1-11</reference>
+<lb/>Family Reading: <reference osisRef="Acts.14">Acts 14</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.23">Jeremiah 23</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.9">Mark 9</reference>
+$$$07.28
+<lb/>Family Reading: <reference osisRef="Judg.11.12-Judg.11.40">Judges 11:12-40</reference>
+<lb/>Family Reading: <reference osisRef="Acts.15">Acts 15</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.24">Jeremiah 24</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.10">Mark 10</reference>
+$$$07.29
+<lb/>Family Reading: <reference osisRef="Judg.12">Judges 12</reference>
+<lb/>Family Reading: <reference osisRef="Acts.16">Acts 16</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.25">Jeremiah 25</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.11">Mark 11</reference>
+$$$07.30
+<lb/>Family Reading: <reference osisRef="Judg.13">Judges 13</reference>
+<lb/>Family Reading: <reference osisRef="Acts.17">Acts 17</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.26">Jeremiah 26</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.12">Mark 12</reference>
+$$$07.31
+<lb/>Family Reading: <reference osisRef="Judg.14">Judges 14</reference>
+<lb/>Family Reading: <reference osisRef="Acts.18">Acts 18</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.27">Jeremiah 27</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.13">Mark 13</reference>
+$$$03.00
+<title type="main" level="1" subType="x-month">AUGUST<title type="sub" level="2">SPEAK, LORD ! FOR THY SERVANT HEARETH.</title></title>
+$$$08.01
+<lb/>Family Reading: <reference osisRef="Judg.15">Judges 15</reference>
+<lb/>Family Reading: <reference osisRef="Acts.19">Acts 19</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.28">Jeremiah 28</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.14">Mark 14</reference>
+$$$08.02
+<lb/>Family Reading: <reference osisRef="Judg.16">Judges 16</reference>
+<lb/>Family Reading: <reference osisRef="Acts.20">Acts 20</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.29">Jeremiah 29</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.15">Mark 15</reference>
+$$$08.03
+<lb/>Family Reading: <reference osisRef="Judg.17">Judges 17</reference>
+<lb/>Family Reading: <reference osisRef="Acts.21">Acts 21</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.30">Jeremiah 30</reference>, <reference osisRef="Jer.31">31</reference>
+<lb/>Secret Reading: <reference osisRef="Mark.16">Mark 16</reference>
+$$$08.04
+<lb/>Family Reading: <reference osisRef="Judg.18">Judges 18</reference>
+<lb/>Family Reading: <reference osisRef="Acts.22">Acts 22</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.32">Jeremiah 32</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.1">Psalms 1</reference>, <reference osisRef="Ps.2">2</reference>
+$$$08.05
+<lb/>Family Reading: <reference osisRef="Judg.19">Judges 19</reference>
+<lb/>Family Reading: <reference osisRef="Acts.23">Acts 23</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.33">Jeremiah 33</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.3">Psalms 3</reference>, <reference osisRef="Ps.4">4</reference>
+$$$08.06
+<lb/>Family Reading: <reference osisRef="Judg.20">Judges 20</reference>
+<lb/>Family Reading: <reference osisRef="Acts.24">Acts 24</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.34">Jeremiah 34</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.5">Psalms 5</reference>, <reference osisRef="Ps.6">6</reference>
+$$$08.07
+<lb/>Family Reading: <reference osisRef="Judg.21">Judges 21</reference>
+<lb/>Family Reading: <reference osisRef="Acts.25">Acts 25</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.35">Jeremiah 35</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.7">Psalms 7</reference>, <reference osisRef="Ps.8">8</reference>
+$$$08.08
+<lb/>Family Reading: <reference osisRef="Ruth.1">Ruth 1</reference>
+<lb/>Family Reading: <reference osisRef="Acts.26">Acts 26</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.36">Jeremiah 36</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.9">Psalms 9</reference>
+$$$08.09
+<lb/>Family Reading: <reference osisRef="Ruth.2">Ruth 2</reference>
+<lb/>Family Reading: <reference osisRef="Acts.27">Acts 27</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.37">Jeremiah 37</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.10">Psalms 10</reference>
+$$$08.10
+<lb/>Family Reading: <reference osisRef="Ruth.3">Ruth 3</reference>, <reference osisRef="Ruth.4">4</reference>
+<lb/>Family Reading: <reference osisRef="Acts.28">Acts 28</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.38">Jeremiah 38</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.11">Psalms 11</reference>, <reference osisRef="Ps.12">12</reference>
+$$$08.11
+<lb/>Family Reading: <reference osisRef="1Sam.1">1 Samuel 1</reference>
+<lb/>Family Reading: <reference osisRef="Rom.1">Romans 1</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.39">Jeremiah 39</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.13">Psalms 13</reference>, <reference osisRef="Ps.14">14</reference>
+$$$08.12
+<lb/>Family Reading: <reference osisRef="1Sam.2">1 Samuel 2</reference>
+<lb/>Family Reading: <reference osisRef="Rom.2">Romans 2</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.40">Jeremiah 40</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.15">Psalms 15</reference>, <reference osisRef="Ps.16">16</reference>
+$$$08.13
+<lb/>Family Reading: <reference osisRef="1Sam.3">1 Samuel 3</reference>
+<lb/>Family Reading: <reference osisRef="Rom.3">Romans 3</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.41">Jeremiah 41</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.17">Psalms 17</reference>
+$$$08.14
+<lb/>Family Reading: <reference osisRef="1Sam.4">1 Samuel 4</reference>
+<lb/>Family Reading: <reference osisRef="Rom.4">Romans 4</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.42">Jeremiah 42</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.18">Psalms 18</reference>
+$$$08.15
+<lb/>Family Reading: <reference osisRef="1Sam.5">1 Samuel 5</reference>, <reference osisRef="1Sam.6">6</reference>
+<lb/>Family Reading: <reference osisRef="Rom.5">Romans 5</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.43">Jeremiah 43</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.19">Psalms 19</reference>
+$$$08.16
+<lb/>Family Reading: <reference osisRef="1Sam.7">1 Samuel 7</reference>, <reference osisRef="1Sam.8">8</reference>
+<lb/>Family Reading: <reference osisRef="Rom.6">Romans 6</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.44">Jeremiah 44</reference>, <reference osisRef="Jer.45">45</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.20">Psalms 20</reference>, <reference osisRef="Ps.21">21</reference>
+$$$08.17
+<lb/>Family Reading: <reference osisRef="1Sam.9">1 Samuel 9</reference>
+<lb/>Family Reading: <reference osisRef="Rom.7">Romans 7</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.46">Jeremiah 46</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.22">Psalms 22</reference>
+$$$08.18
+<lb/>Family Reading: <reference osisRef="1Sam.10">1 Samuel 10</reference>
+<lb/>Family Reading: <reference osisRef="Rom.8">Romans 8</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.47">Jeremiah 47</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.23">Psalms 23</reference>, <reference osisRef="Ps.24">24</reference>
+$$$08.19
+<lb/>Family Reading: <reference osisRef="1Sam.11">1 Samuel 11</reference>
+<lb/>Family Reading: <reference osisRef="Rom.9">Romans 9</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.48">Jeremiah 48</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.25">Psalms 25</reference>
+$$$08.20
+<lb/>Family Reading: <reference osisRef="1Sam.12">1 Samuel 12</reference>
+<lb/>Family Reading: <reference osisRef="Rom.10">Romans 10</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.49">Jeremiah 49</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.26">Psalms 26</reference>, <reference osisRef="Ps.27">27</reference>
+$$$08.21
+<lb/>Family Reading: <reference osisRef="1Sam.13">1 Samuel 13</reference>
+<lb/>Family Reading: <reference osisRef="Rom.11">Romans 11</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.0">Jeremiah 50</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.28">Psalms 28</reference>, <reference osisRef="Ps.29">29</reference>
+$$$08.22
+<lb/>Family Reading: <reference osisRef="1Sam.14">1 Samuel 14</reference>
+<lb/>Family Reading: <reference osisRef="Rom.12">Romans 12</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.51">Jeremiah 51</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.30">Psalms 30</reference>
+$$$08.23
+<lb/>Family Reading: <reference osisRef="1Sam.15">1 Samuel 15</reference>
+<lb/>Family Reading: <reference osisRef="Rom.13">Romans 13</reference>
+<lb/>Secret Reading: <reference osisRef="Jer.52">Jeremiah 52</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.31">Psalms 31</reference>
+$$$08.24
+<lb/>Family Reading: <reference osisRef="1Sam.16">1 Samuel 16</reference>
+<lb/>Family Reading: <reference osisRef="Rom.14">Romans 14</reference>
+<lb/>Secret Reading: <reference osisRef="Lam.1">Lamentations 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.32">Psalms 32</reference>
+$$$08.25
+<lb/>Family Reading: <reference osisRef="1Sam.17">1 Samuel 17</reference>
+<lb/>Family Reading: <reference osisRef="Rom.15">Romans 15</reference>
+<lb/>Secret Reading: <reference osisRef="Lam.2">Lamentations 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.33">Psalms 33</reference>
+$$$08.26
+<lb/>Family Reading: <reference osisRef="1Sam.18">1 Samuel 18</reference>
+<lb/>Family Reading: <reference osisRef="Rom.16">Romans 16</reference>
+<lb/>Secret Reading: <reference osisRef="Lam.3">Lamentations 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.34">Psalms 34</reference>
+$$$08.27
+<lb/>Family Reading: <reference osisRef="1Sam.19">1 Samuel 19</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.1">1 Corinthians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Lam.4">Lamentations 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.35">Psalms 35</reference>
+$$$08.28
+<lb/>Family Reading: <reference osisRef="1Sam.20">1 Samuel 20</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.2">1 Corinthians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Lam.5">Lamentations 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.36">Psalms 36</reference>
+$$$08.29
+<lb/>Family Reading: <reference osisRef="1Sam.21">1 Samuel 21</reference>, <reference osisRef="1Sam.22">22</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.3">1 Corinthians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.1">Ezekiel 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.37">Psalms 37</reference>
+$$$08.30
+<lb/>Family Reading: <reference osisRef="1Sam.23">1 Samuel 23</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.4">1 Corinthians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.2">Ezekiel 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.38">Psalms 38</reference>
+$$$08.31
+<lb/>Family Reading: <reference osisRef="1Sam.24">1 Samuel 24</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.5">1 Corinthians 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.3">Ezekiel 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.39">Psalms 39</reference>
+$$$09.00
+<title type="main" level="1" subType="x-month">SEPTEMBER<title type="sub" level="2">THE LAW OF THE LORD IS PERFECT, CONVERTING THE SOUL.</title></title>
+$$$09.01
+<lb/>Family Reading: <reference osisRef="1Sam.25">1 Samuel 25</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.6">1 Corinthians 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.4">Ezekiel 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.40">Psalms 40</reference>, <reference osisRef="Ps.41">41</reference>
+$$$09.02
+<lb/>Family Reading: <reference osisRef="1Sam.26">1 Samuel 26</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.7">1 Corinthians 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.5">Ezekiel 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.42">Psalms 42</reference>, <reference osisRef="Ps.43">43</reference>
+$$$09.03
+<lb/>Family Reading: <reference osisRef="1Sam.27">1 Samuel 27</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.8">1 Corinthians 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.6">Ezekiel 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.44">Psalms 44</reference>
+$$$09.04
+<lb/>Family Reading: <reference osisRef="1Sam.28">1 Samuel 28</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.9">1 Corinthians 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.7">Ezekiel 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.45">Psalms 45</reference>
+$$$09.05
+<lb/>Family Reading: <reference osisRef="1Sam.29">1 Samuel 29</reference>, <reference osisRef="1Sam.30">30</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.10">1 Corinthians 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.8">Ezekiel 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.46">Psalms 46</reference>, <reference osisRef="Ps.47">47</reference>
+$$$09.06
+<lb/>Family Reading: <reference osisRef="1Sam.31">1 Samuel 31</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.11">1 Corinthians 11</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.9">Ezekiel 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.48">Psalms 48</reference>
+$$$09.07
+<lb/>Family Reading: <reference osisRef="2Sam.1">2 Samuel 1</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.12">1 Corinthians 12</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.10">Ezekiel 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.49">Psalms 49</reference>
+$$$09.08
+<lb/>Family Reading: <reference osisRef="2Sam.2">2 Samuel 2</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.13">1 Corinthians 13</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.11">Ezekiel 11</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.50">Psalms 50</reference>
+$$$09.09
+<lb/>Family Reading: <reference osisRef="2Sam.3">2 Samuel 3</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.14">1 Corinthians 14</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.12">Ezekiel 12</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.51">Psalms 51</reference>
+$$$09.10
+<lb/>Family Reading: <reference osisRef="2Sam.4">2 Samuel 4</reference>, <reference osisRef="2Sam.5">5</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.15">1 Corinthians 15</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.13">Ezekiel 13</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.2">Psalms 52</reference>, <reference osisRef="Ps.53">53</reference>, <reference osisRef="Ps.54">54</reference>
+$$$09.11
+<lb/>Family Reading: <reference osisRef="2Sam.6">2 Samuel 6</reference>
+<lb/>Family Reading: <reference osisRef="1Cor.16">1 Corinthians 16</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.14">Ezekiel 14</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.55">Psalms 55</reference>
+$$$09.12
+<lb/>Family Reading: <reference osisRef="2Sam.7">2 Samuel 7</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.1">2 Corinthians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.15">Ezekiel 15</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.56">Psalms 56</reference>, <reference osisRef="Ps.57">57</reference>
+$$$09.13
+<lb/>Family Reading: <reference osisRef="2Sam.8">2 Samuel 8</reference>, <reference osisRef="2Sam.9">9</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.2">2 Corinthians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.16">Ezekiel 16</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.58">Psalms 58</reference>, <reference osisRef="Ps.59">59</reference>
+$$$09.14
+<lb/>Family Reading: <reference osisRef="2Sam.10">2 Samuel 10</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.3">2 Corinthians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.17">Ezekiel 17</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.60">Psalms 60</reference>, <reference osisRef="Ps.61">61</reference>
+$$$09.15
+<lb/>Family Reading: <reference osisRef="2Sam.11">2 Samuel 11</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.4">2 Corinthians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.18">Ezekiel 18</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.62">Psalms 62</reference>, <reference osisRef="Ps.63">63</reference>
+$$$09.16
+<lb/>Family Reading: <reference osisRef="2Sam.12">2 Samuel 12</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.5">2 Corinthians 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.19">Ezekiel 19</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.64">Psalms 64</reference>, <reference osisRef="Ps.65">65</reference>
+$$$09.17
+<lb/>Family Reading: <reference osisRef="2Sam.13">2 Samuel 13</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.6">2 Corinthians 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.20">Ezekiel 20</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.66">Psalms 66</reference>, <reference osisRef="Ps.67">67</reference>
+$$$09.18
+<lb/>Family Reading: <reference osisRef="2Sam.14">2 Samuel 14</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.7">2 Corinthians 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.21">Ezekiel 21</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.68">Psalms 68</reference>
+$$$09.19
+<lb/>Family Reading: <reference osisRef="2Sam.15">2 Samuel 15</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.8">2 Corinthians 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.22">Ezekiel 22</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.69">Psalms 69</reference>
+$$$09.20
+<lb/>Family Reading: <reference osisRef="2Sam.16">2 Samuel 16</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.9">2 Corinthians 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.23">Ezekiel 23</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.70">Psalms 70</reference>, <reference osisRef="Ps.71">71</reference>
+$$$09.21
+<lb/>Family Reading: <reference osisRef="2Sam.17">2 Samuel 17</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.10">2 Corinthians 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.24">Ezekiel 24</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.72">Psalms 72</reference>
+$$$09.22
+<lb/>Family Reading: <reference osisRef="2Sam.18">2 Samuel 18</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.11">2 Corinthians 11</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.25">Ezekiel 25</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.73">Psalms 73</reference>
+$$$09.23
+<lb/>Family Reading: <reference osisRef="2Sam.19">2 Samuel 19</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.12">2 Corinthians 12</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.26">Ezekiel 26</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.74">Psalms 74</reference>
+$$$09.24
+<lb/>Family Reading: <reference osisRef="2Sam.20">2 Samuel 20</reference>
+<lb/>Family Reading: <reference osisRef="2Cor.13">2 Corinthians 13</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.27">Ezekiel 27</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.75">Psalms 75</reference>, <reference osisRef="Ps.76">76</reference>
+$$$09.25
+<lb/>Family Reading: <reference osisRef="2Sam.21">2 Samuel 21</reference>
+<lb/>Family Reading: <reference osisRef="Gal.1">Galatians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.28">Ezekiel 28</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.77">Psalms 77</reference>
+$$$09.26
+<lb/>Family Reading: <reference osisRef="2Sam.22">2 Samuel 22</reference>
+<lb/>Family Reading: <reference osisRef="Gal.2">Galatians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.29">Ezekiel 29</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.78.-Ps.78.37">Psalms 78:1-37</reference>
+$$$09.27
+<lb/>Family Reading: <reference osisRef="2Sam.23">2 Samuel 23</reference>
+<lb/>Family Reading: <reference osisRef="Gal.3">Galatians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.30">Ezekiel 30</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.78.38-Ps.78.72">Psalms 78:38-72</reference>
+$$$09.28
+<lb/>Family Reading: <reference osisRef="2Sam.24">2 Samuel 24</reference>
+<lb/>Family Reading: <reference osisRef="Gal.4">Galatians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.31">Ezekiel 31</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.79">Psalms 79</reference>
+$$$09.29
+<lb/>Family Reading: <reference osisRef="1Kgs.1">1 Kings 1</reference>
+<lb/>Family Reading: <reference osisRef="Gal.5">Galatians 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.32">Ezekiel 32</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.80">Psalms 80</reference>
+$$$09.30
+<lb/>Family Reading: <reference osisRef="1Kgs.2">1 Kings 2</reference>
+<lb/>Family Reading: <reference osisRef="Gal.6">Galatians 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.33">Ezekiel 33</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.81">Psalms 81</reference>, <reference osisRef="Ps.82">82</reference>
+$$$10.00
+<title type="main" level="1" subType="x-month">OCTOBER<title type="sub" level="2">O ! HOW I LOVE THY LAW. IT IS MY MEDITATION ALL THE DAY.</title></title>
+$$$10.01
+<lb/>Family Reading: <reference osisRef="1Kgs.3">1 Kings 3</reference>
+<lb/>Family Reading: <reference osisRef="Eph.1">Ephesians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.34">Ezekiel 34</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.83">Psalms 83</reference>, <reference osisRef="Ps.84">84</reference>
+$$$10.02
+<lb/>Family Reading: <reference osisRef="1Kgs.4">1 Kings 4</reference>, <reference osisRef="1Kgs.5">5</reference>
+<lb/>Family Reading: <reference osisRef="Eph.2">Ephesians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.35">Ezekiel 35</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.85">Psalms 85</reference>
+$$$10.03
+<lb/>Family Reading: <reference osisRef="1Kgs.6">1 Kings 6</reference>
+<lb/>Family Reading: <reference osisRef="Eph.3">Ephesians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.36">Ezekiel 36</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.86">Psalms 86</reference>
+$$$10.04
+<lb/>Family Reading: <reference osisRef="1Kgs.7">1 Kings 7</reference>
+<lb/>Family Reading: <reference osisRef="Eph.4">Ephesians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.37">Ezekiel 37</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.87">Psalms 87</reference>, <reference osisRef="Ps.88">88</reference>
+$$$10.05
+<lb/>Family Reading: <reference osisRef="1Kgs.8">1 Kings 8</reference>
+<lb/>Family Reading: <reference osisRef="Eph.5">Ephesians 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.38">Ezekiel 38</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.89">Psalms 89</reference>
+$$$10.06
+<lb/>Family Reading: <reference osisRef="1Kgs.9">1 Kings 9</reference>
+<lb/>Family Reading: <reference osisRef="Eph.6">Ephesians 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.39">Ezekiel 39</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.90">Psalms 90</reference>
+$$$10.07
+<lb/>Family Reading: <reference osisRef="1Kgs.10">1 Kings 10</reference>
+<lb/>Family Reading: <reference osisRef="Phil.1">Philippians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.40">Ezekiel 40</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.91">Psalms 91</reference>
+$$$10.08
+<lb/>Family Reading: <reference osisRef="1Kgs.11">1 Kings 11</reference>
+<lb/>Family Reading: <reference osisRef="Phil.2">Philippians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.41">Ezekiel 41</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.92">Psalms 92</reference>, <reference osisRef="Ps.93">93</reference>
+$$$10.09
+<lb/>Family Reading: <reference osisRef="1Kgs.12">1 Kings 12</reference>
+<lb/>Family Reading: <reference osisRef="Phil.3">Philippians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.42">Ezekiel 42</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.94">Psalms 94</reference>
+$$$10.10
+<lb/>Family Reading: <reference osisRef="1Kgs.13">1 Kings 13</reference>
+<lb/>Family Reading: <reference osisRef="Phil.4">Philippians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.43">Ezekiel 43</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.95">Psalms 95</reference>, <reference osisRef="Ps.96">96</reference>
+$$$10.11
+<lb/>Family Reading: <reference osisRef="1Kgs.14">1 Kings 14</reference>
+<lb/>Family Reading: <reference osisRef="Col.1">Colossians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.44">Ezekiel 44</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.97">Psalms 97</reference>, <reference osisRef="Ps.98">98</reference>
+$$$10.12
+<lb/>Family Reading: <reference osisRef="1Kgs.15">1 Kings 15</reference>
+<lb/>Family Reading: <reference osisRef="Col.2">Colossians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.45">Ezekiel 45</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.99">Psalms 99</reference>, <reference osisRef="Ps.100">100</reference>, <reference osisRef="Ps.101">101</reference>
+$$$10.13
+<lb/>Family Reading: <reference osisRef="1Kgs.16">1 Kings 16</reference>
+<lb/>Family Reading: <reference osisRef="Col.3">Colossians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.46">Ezekiel 46</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.102">Psalms 102</reference>
+$$$10.14
+<lb/>Family Reading: <reference osisRef="1Kgs.17">1 Kings 17</reference>
+<lb/>Family Reading: <reference osisRef="Col.4">Colossians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.47">Ezekiel 47</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.103">Psalms 103</reference>
+$$$10.15
+<lb/>Family Reading: <reference osisRef="1Kgs.18">1 Kings 18</reference>
+<lb/>Family Reading: <reference osisRef="1Thess.1">1 Thessalonians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ezek.48">Ezekiel 48</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.104">Psalms 104</reference>
+$$$10.16
+<lb/>Family Reading: <reference osisRef="1Kgs.19">1 Kings 19</reference>
+<lb/>Family Reading: <reference osisRef="1Thess.2">1 Thessalonians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.1">Daniel 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.105">Psalms 105</reference>
+$$$10.17
+<lb/>Family Reading: <reference osisRef="1Kgs.20">1 Kings 20</reference>
+<lb/>Family Reading: <reference osisRef="1Thess.3">1 Thessalonians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.2">Daniel 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.106">Psalms 106</reference>
+$$$10.18
+<lb/>Family Reading: <reference osisRef="1Kgs.21">1 Kings 21</reference>
+<lb/>Family Reading: <reference osisRef="1Thess.4">1 Thessalonians 4</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.3">Daniel 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.107">Psalms 107</reference>
+$$$10.19
+<lb/>Family Reading: <reference osisRef="1Kgs.22">1 Kings 22</reference>
+<lb/>Family Reading: <reference osisRef="1Thess.5">1 Thessalonians 5</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.4">Daniel 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.108">Psalms 108</reference>, <reference osisRef="Ps.109">109</reference>
+$$$10.20
+<lb/>Family Reading: <reference osisRef="2Kgs.1">2 Kings 1</reference>
+<lb/>Family Reading: <reference osisRef="2Thess.1">2 Thessalonians 1</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.5">Daniel 5</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.110">Psalms 110</reference>, <reference osisRef="Ps.111">111</reference>
+$$$10.21
+<lb/>Family Reading: <reference osisRef="2Kgs.2">2 Kings 2</reference>
+<lb/>Family Reading: <reference osisRef="2Thess.2">2 Thessalonians 2</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.6">Daniel 6</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.112">Psalms 112</reference>, <reference osisRef="Ps.113">113</reference>
+$$$10.22
+<lb/>Family Reading: <reference osisRef="2Kgs.3">2 Kings 3</reference>
+<lb/>Family Reading: <reference osisRef="2Thess.3">2 Thessalonians 3</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.7">Daniel 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.114">Psalms 114</reference>, <reference osisRef="Ps.115">115</reference>
+$$$10.23
+<lb/>Family Reading: <reference osisRef="2Kgs.4">2 Kings 4</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.1">1 Timothy 1</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.8">Daniel 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.116">Psalms 116</reference>
+$$$10.24
+<lb/>Family Reading: <reference osisRef="2Kgs.5">2 Kings 5</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.2">1 Timothy 2</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.9">Daniel 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.117">Psalms 117</reference>, <reference osisRef="Ps.118">118</reference>
+$$$10.25
+<lb/>Family Reading: <reference osisRef="2Kgs.6">2 Kings 6</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.3">1 Timothy 3</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.10">Daniel 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.1-Ps.119.24">Psalms 119:1-24</reference>
+$$$10.26
+<lb/>Family Reading: <reference osisRef="2Kgs.7">2 Kings 7</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.4">1 Timothy 4</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.11">Daniel 11</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.25-Ps.119.48">Psalms 119:25-48</reference>
+$$$10.27
+<lb/>Family Reading: <reference osisRef="2Kgs.8">2 Kings 8</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.5">1 Timothy 5</reference>
+<lb/>Secret Reading: <reference osisRef="Dan.12">Daniel 12</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.49-Ps.119.72">Psalms 119:49-72</reference>
+$$$10.28
+<lb/>Family Reading: <reference osisRef="2Kgs.9">2 Kings 9</reference>
+<lb/>Family Reading: <reference osisRef="1Tim.6">1 Timothy 6</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.1">Hosea 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.73-Ps.119.96">Psalms 119:73-96</reference>
+$$$10.29
+<lb/>Family Reading: <reference osisRef="2Kgs.10">2 Kings 10</reference>
+<lb/>Family Reading: <reference osisRef="2Tim.1">2 Timothy 1</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.2">Hosea 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.97-Ps.119.120">Psalms 119:97-120</reference>
+$$$10.30
+<lb/>Family Reading: <reference osisRef="2Kgs.11">2 Kings 11</reference>, <reference osisRef="2Kgs.12">12</reference>
+<lb/>Family Reading: <reference osisRef="2Tim.2">2 Timothy 2</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.3">Hosea 3</reference>, <reference osisRef="Hos.4">4</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.121-Ps.119.144">Psalms 119:121-144</reference>
+$$$10.31
+<lb/>Family Reading: <reference osisRef="2Kgs.13">2 Kings 13</reference>
+<lb/>Family Reading: <reference osisRef="2Tim.3">2 Timothy 3</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.">Hosea 5</reference>, <reference osisRef="Hos.6">6</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.119.145-Ps.119.176">Psalms 119:145-176</reference>
+$$$11.00
+<title type="main" level="1" subType="x-month">NOVEMBER<title type="sub" level="2">AS NEW BORN BABES, DESIRE THE SINCERE MILK OF THE WORD, THAT YE MAY GROW THEREBY.</title></title>
+$$$11.01
+<lb/>Family Reading: <reference osisRef="2Kgs.14">2 Kings 14</reference>
+<lb/>Family Reading: <reference osisRef="2Tim.4">2 Timothy 4</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.7">Hosea 7</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.120">Psalms 120</reference>, <reference osisRef="Ps.121">121</reference>, <reference osisRef="Ps.122">122</reference>
+$$$11.02
+<lb/>Family Reading: <reference osisRef="2Kgs.15">2 Kings 15</reference>
+<lb/>Family Reading: <reference osisRef="Titus.1">Titus 1</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.8">Hosea 8</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.123">Psalms 123</reference>, <reference osisRef="Ps.124">124</reference>, <reference osisRef="Ps.125">125</reference>
+$$$11.03
+<lb/>Family Reading: <reference osisRef="2Kgs.16">2 Kings 16</reference>
+<lb/>Family Reading: <reference osisRef="Titus.2">Titus 2</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.9">Hosea 9</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.126">Psalms 126</reference>, <reference osisRef="Ps.127">127</reference>, <reference osisRef="Ps.128">128</reference>
+$$$11.04
+<lb/>Family Reading: <reference osisRef="2Kgs.17">2 Kings 17</reference>
+<lb/>Family Reading: <reference osisRef="Titus.3">Titus 3</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.10">Hosea 10</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.129">Psalms 129</reference>, <reference osisRef="Ps.130">130</reference>, <reference osisRef="Ps.131">131</reference>
+$$$11.05
+<lb/>Family Reading: <reference osisRef="2Kgs.18">2 Kings 18</reference>
+<lb/>Family Reading: <reference osisRef="Phlm.1">Philemon</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.11">Hosea 11</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.132">Psalms 132</reference>, <reference osisRef="Ps.133">133</reference>, <reference osisRef="Ps.134">134</reference>
+$$$11.06
+<lb/>Family Reading: <reference osisRef="2Kgs.19">2 Kings 19</reference>
+<lb/>Family Reading: <reference osisRef="Heb.1">Hebrews 1</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.12">Hosea 12</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.135">Psalms 135</reference>, <reference osisRef="Ps.136">136</reference>
+$$$11.07
+<lb/>Family Reading: <reference osisRef="2Kgs.20">2 Kings 20</reference>
+<lb/>Family Reading: <reference osisRef="Heb.2">Hebrews 2</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.13">Hosea 13</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.137">Psalms 137</reference>, <reference osisRef="Ps.138">138</reference>
+$$$11.08
+<lb/>Family Reading: <reference osisRef="2Kgs.21">2 Kings 21</reference>
+<lb/>Family Reading: <reference osisRef="Heb.3">Hebrews 3</reference>
+<lb/>Secret Reading: <reference osisRef="Hos.14">Hosea 14</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.139">Psalms 139</reference>
+$$$11.09
+<lb/>Family Reading: <reference osisRef="2Kgs.22">2 Kings 22</reference>
+<lb/>Family Reading: <reference osisRef="Heb.4">Hebrews 4</reference>
+<lb/>Secret Reading: <reference osisRef="Joel.1">Joel 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.140">Psalms 140</reference>, <reference osisRef="Ps.141">141</reference>
+$$$11.10
+<lb/>Family Reading: <reference osisRef="2Kgs.23">2 Kings 23</reference>
+<lb/>Family Reading: <reference osisRef="Heb.5">Hebrews 5</reference>
+<lb/>Secret Reading: <reference osisRef="Joel.2">Joel 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.142">Psalms 142</reference>
+$$$11.11
+<lb/>Family Reading: <reference osisRef="2Kgs.24">2 Kings 24</reference>
+<lb/>Family Reading: <reference osisRef="Heb.6">Hebrews 6</reference>
+<lb/>Secret Reading: <reference osisRef="Joel.3">Joel 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.143">Psalms 143</reference>
+$$$11.12
+<lb/>Family Reading: <reference osisRef="2Kgs.25">2 Kings 25</reference>
+<lb/>Family Reading: <reference osisRef="Heb.7">Hebrews 7</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.1">Amos 1</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.144">Psalms 144</reference>
+$$$11.13
+<lb/>Family Reading: <reference osisRef="1Chr.1">1 Chronicles 1</reference>, <reference osisRef="1Chr.2">2</reference>
+<lb/>Family Reading: <reference osisRef="Heb.8">Hebrews 8</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.2">Amos 2</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.145">Psalms 145</reference>
+$$$11.14
+<lb/>Family Reading: <reference osisRef="1Chr.3">1 Chronicles 3</reference>, <reference osisRef="1Chr.4">4</reference>
+<lb/>Family Reading: <reference osisRef="Heb.9">Hebrews 9</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.3">Amos 3</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.146">Psalms 146</reference>, <reference osisRef="Ps.147">147</reference>
+$$$11.15
+<lb/>Family Reading: <reference osisRef="1Chr.5">1 Chronicles 5</reference>, <reference osisRef="1Chr.6">6</reference>
+<lb/>Family Reading: <reference osisRef="Heb.10">Hebrews 10</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.4">Amos 4</reference>
+<lb/>Secret Reading: <reference osisRef="Ps.148">Psalms 148</reference>, <reference osisRef="Ps.149">149</reference>, <reference osisRef="Ps.150">150</reference>
+$$$11.16
+<lb/>Family Reading: <reference osisRef="1Chr.7">1 Chronicles 7</reference>, <reference osisRef="1Chr.8">8</reference>
+<lb/>Family Reading: <reference osisRef="Heb.11">Hebrews 11</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.5">Amos 5</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.1.1-Luke.1.38">Luke 1:1-38</reference>
+$$$11.17
+<lb/>Family Reading: <reference osisRef="1Chr.9">1 Chronicles 9</reference>, <reference osisRef="1Chr.10">10</reference>
+<lb/>Family Reading: <reference osisRef="Heb.12">Hebrews 12</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.6">Amos 6</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.1.39-Luke.1.80">Luke 1:39-80</reference>
+$$$11.18
+<lb/>Family Reading: <reference osisRef="1Chr.11">1 Chronicles 11</reference>, <reference osisRef="1Chr.12">12</reference>
+<lb/>Family Reading: <reference osisRef="Heb.13">Hebrews 13</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.7">Amos 7</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.2">Luke 2</reference>
+$$$11.19
+<lb/>Family Reading: <reference osisRef="1Chr.13">1 Chronicles 13</reference>, <reference osisRef="1Chr.14">14</reference>
+<lb/>Family Reading: <reference osisRef="Jas.1">James 1</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.8">Amos 8</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.3">Luke 3</reference>
+$$$11.20
+<lb/>Family Reading: <reference osisRef="1Chr.15">1 Chronicles 15</reference>
+<lb/>Family Reading: <reference osisRef="Jas.2">James 2</reference>
+<lb/>Secret Reading: <reference osisRef="Amos.9">Amos 9</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.4">Luke 4</reference>
+$$$11.21
+<lb/>Family Reading: <reference osisRef="1Chr.16">1 Chronicles 16</reference>
+<lb/>Family Reading: <reference osisRef="Jas.3">James 3</reference>
+<lb/>Secret Reading: <reference osisRef="Obad.1">Obadiah</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.5">Luke 5</reference>
+$$$11.22
+<lb/>Family Reading: <reference osisRef="1Chr.17">1 Chronicles 17</reference>
+<lb/>Family Reading: <reference osisRef="Jas.4">James 4</reference>
+<lb/>Secret Reading: <reference osisRef="Jonah.1">Jonah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.6">Luke 6</reference>
+$$$11.23
+<lb/>Family Reading: <reference osisRef="1Chr.18">1 Chronicles 18</reference>
+<lb/>Family Reading: <reference osisRef="Jas.5">James 5</reference>
+<lb/>Secret Reading: <reference osisRef="Jonah.2">Jonah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.7">Luke 7</reference>
+$$$11.24
+<lb/>Family Reading: <reference osisRef="1Chr.19">1 Chronicles 19</reference>, <reference osisRef="1Chr.20">20</reference>
+<lb/>Family Reading: <reference osisRef="1Pet.1">1 Peter 1</reference>
+<lb/>Secret Reading: <reference osisRef="Jonah.3">Jonah 3</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.8">Luke 8</reference>
+$$$11.25
+<lb/>Family Reading: <reference osisRef="1Chr.21">1 Chronicles 21</reference>
+<lb/>Family Reading: <reference osisRef="1Pet.2">1 Peter 2</reference>
+<lb/>Secret Reading: <reference osisRef="Jonah.4">Jonah 4</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.9">Luke 9</reference>
+$$$11.26
+<lb/>Family Reading: <reference osisRef="1Chr.22">1 Chronicles 22</reference>
+<lb/>Family Reading: <reference osisRef="1Pet.3">1 Peter 3</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.1">Micah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.10">Luke 10</reference>
+$$$11.27
+<lb/>Family Reading: <reference osisRef="1Chr.23">1 Chronicles 23</reference>
+<lb/>Family Reading: <reference osisRef="1Pet.4">1 Peter 4</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.2">Micah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.11">Luke 11</reference>
+$$$11.28
+<lb/>Family Reading: <reference osisRef="1Chr.24">1 Chronicles 24</reference>, <reference osisRef="1Chr.25">25</reference>
+<lb/>Family Reading: <reference osisRef="1Pet.5">1 Peter 5</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.3">Micah 3</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.12">Luke 12</reference>
+$$$11.29
+<lb/>Family Reading: <reference osisRef="1Chr.26">1 Chronicles 26</reference>, <reference osisRef="1Chr.27">27</reference>
+<lb/>Family Reading: <reference osisRef="2Pet.1">2 Peter 1</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.4">Micah 4</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.13">Luke 13</reference>
+$$$11.30
+<lb/>Family Reading: <reference osisRef="1Chr.28">1 Chronicles 28</reference>
+<lb/>Family Reading: <reference osisRef="2Pet.2">2 Peter 2</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.5">Micah 5</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.14">Luke 14</reference>
+$$$12.00
+<title type="main" level="1" subType="x-month">DECEMBER<title type="sub" level="2">THE LAW OF HIS GOD IS IN HIS HEART; NONE OF HIS STEPS SHALL SLIDE.</title></title>
+$$$12.01
+<lb/>Family Reading: <reference osisRef="1Chr.29">1 Chronicles 29</reference>
+<lb/>Family Reading: <reference osisRef="2Pet.3">2 Peter 3</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.6">Micah 6</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.15">Luke 15</reference>
+$$$12.02
+<lb/>Family Reading: <reference osisRef="2Chr.1">2 Chronicles 1</reference>
+<lb/>Family Reading: <reference osisRef="1John.1">1 John 1</reference>
+<lb/>Secret Reading: <reference osisRef="Mic.7">Micah 7</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.16">Luke 16</reference>
+$$$12.03
+<lb/>Family Reading: <reference osisRef="2Chr.2">2 Chronicles 2</reference>
+<lb/>Family Reading: <reference osisRef="1John.2">1 John 2</reference>
+<lb/>Secret Reading: <reference osisRef="Nah.1">Nahum 1</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.17">Luke 17</reference>
+$$$12.04
+<lb/>Family Reading: <reference osisRef="2Chr.3">2 Chronicles 3</reference>, <reference osisRef="2Chr.4">4</reference>
+<lb/>Family Reading: <reference osisRef="1John.3">1 John 3</reference>
+<lb/>Secret Reading: <reference osisRef="Nah.2">Nahum 2</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.18">Luke 18</reference>
+$$$12.05
+<lb/>Family Reading: <reference osisRef="2Chr.5">2 Chronicles 5</reference>, <reference osisRef="2Chr.6.1-2Chr.6.11">6:1-11</reference>
+<lb/>Family Reading: <reference osisRef="1John.4">1 John 4</reference>
+<lb/>Secret Reading: <reference osisRef="Nah.3">Nahum 3</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.19">Luke 19</reference>
+$$$12.06
+<lb/>Family Reading: <reference osisRef="2Chr.6.12-2Chr.6.42">2 Chronicles 6:12-42</reference>
+<lb/>Family Reading: <reference osisRef="1John.5">1 John 5</reference>
+<lb/>Secret Reading: <reference osisRef="Hab.1">Habakkuk 1</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.20">Luke 20</reference>
+$$$12.07
+<lb/>Family Reading: <reference osisRef="2Chr.7">2 Chronicles 7</reference>
+<lb/>Family Reading: <reference osisRef="2John.1">2 John</reference>
+<lb/>Secret Reading: <reference osisRef="Hab.2">Habakkuk 2</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.21">Luke 21</reference>
+$$$12.08
+<lb/>Family Reading: <reference osisRef="2Chr.8">2 Chronicles 8</reference>
+<lb/>Family Reading: <reference osisRef="3John.1">3 John</reference>
+<lb/>Secret Reading: <reference osisRef="Hab.3">Habakkuk 3</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.22">Luke 22</reference>
+$$$12.09
+<lb/>Family Reading: <reference osisRef="2Chr.9">2 Chronicles 9</reference>
+<lb/>Family Reading: <reference osisRef="Jude.1">Jude</reference>
+<lb/>Secret Reading: <reference osisRef="Zeph.1">Zephaniah 1</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.23">Luke 23</reference>
+$$$12.10
+<lb/>Family Reading: <reference osisRef="2Chr.10">2 Chronicles 10</reference>
+<lb/>Family Reading: <reference osisRef="Rev.1">Revelation 1</reference>
+<lb/>Secret Reading: <reference osisRef="Zeph.2">Zephaniah 2</reference>
+<lb/>Secret Reading: <reference osisRef="Luke.24">Luke 24</reference>
+$$$12.11
+<lb/>Family Reading: <reference osisRef="2Chr.11">2 Chronicles 11</reference>, <reference osisRef="2Chr.12">12</reference>
+<lb/>Family Reading: <reference osisRef="Rev.2">Revelation 2</reference>
+<lb/>Secret Reading: <reference osisRef="Zeph.3">Zephaniah 3</reference>
+<lb/>Secret Reading: <reference osisRef="John.1">John 1</reference>
+$$$12.12
+<lb/>Family Reading: <reference osisRef="2Chr.13">2 Chronicles 13</reference>
+<lb/>Family Reading: <reference osisRef="Rev.3">Revelation 3</reference>
+<lb/>Secret Reading: <reference osisRef="Hag.1">Haggai 1</reference>
+<lb/>Secret Reading: <reference osisRef="John.2">John 2</reference>
+$$$12.13
+<lb/>Family Reading: <reference osisRef="2Chr.14">2 Chronicles 14</reference>, <reference osisRef="2Chr.15">15</reference>
+<lb/>Family Reading: <reference osisRef="Rev.4">Revelation 4</reference>
+<lb/>Secret Reading: <reference osisRef="Hag.2">Haggai 2</reference>
+<lb/>Secret Reading: <reference osisRef="John.3">John 3</reference>
+$$$12.14
+<lb/>Family Reading: <reference osisRef="2Chr.16">2 Chronicles 16</reference>
+<lb/>Family Reading: <reference osisRef="Rev.5">Revelation 5</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.1">Zechariah 1</reference>
+<lb/>Secret Reading: <reference osisRef="John.4">John 4</reference>
+$$$12.15
+<lb/>Family Reading: <reference osisRef="2Chr.17">2 Chronicles 17</reference>
+<lb/>Family Reading: <reference osisRef="Rev.6">Revelation 6</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.2">Zechariah 2</reference>
+<lb/>Secret Reading: <reference osisRef="John.5">John 5</reference>
+$$$12.16
+<lb/>Family Reading: <reference osisRef="2Chr.18">2 Chronicles 18</reference>
+<lb/>Family Reading: <reference osisRef="Rev.7">Revelation 7</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.3">Zechariah 3</reference>
+<lb/>Secret Reading: <reference osisRef="John.6">John 6</reference>
+$$$12.17
+<lb/>Family Reading: <reference osisRef="2Chr.19">2 Chronicles 19</reference>, <reference osisRef="2Chr.20">20</reference>
+<lb/>Family Reading: <reference osisRef="Rev.8">Revelation 8</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.4">Zechariah 4</reference>
+<lb/>Secret Reading: <reference osisRef="John.7">John 7</reference>
+$$$12.18
+<lb/>Family Reading: <reference osisRef="2Chr.21">2 Chronicles 21</reference>
+<lb/>Family Reading: <reference osisRef="Rev.9">Revelation 9</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.5">Zechariah 5</reference>
+<lb/>Secret Reading: <reference osisRef="John.8">John 8</reference>
+$$$12.19
+<lb/>Family Reading: <reference osisRef="2Chr.22">2 Chronicles 22</reference>, <reference osisRef="2Chr.23">23</reference>
+<lb/>Family Reading: <reference osisRef="Rev.10">Revelation 10</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.6">Zechariah 6</reference>
+<lb/>Secret Reading: <reference osisRef="John.9">John 9</reference>
+$$$12.20
+<lb/>Family Reading: <reference osisRef="2Chr.24">2 Chronicles 24</reference>
+<lb/>Family Reading: <reference osisRef="Rev.11">Revelation 11</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.7">Zechariah 7</reference>
+<lb/>Secret Reading: <reference osisRef="John.10">John 10</reference>
+$$$12.21
+<lb/>Family Reading: <reference osisRef="2Chr.25">2 Chronicles 25</reference>
+<lb/>Family Reading: <reference osisRef="Rev.12">Revelation 12</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.8">Zechariah 8</reference>
+<lb/>Secret Reading: <reference osisRef="John.11">John 11</reference>
+$$$12.22
+<lb/>Family Reading: <reference osisRef="2Chr.26">2 Chronicles 26</reference>
+<lb/>Family Reading: <reference osisRef="Rev.13">Revelation 13</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.9">Zechariah 9</reference>
+<lb/>Secret Reading: <reference osisRef="John.12">John 12</reference>
+$$$12.23
+<lb/>Family Reading: <reference osisRef="2Chr.27">2 Chronicles 27</reference>, <reference osisRef="2Chr.28">28</reference>
+<lb/>Family Reading: <reference osisRef="Rev.14">Revelation 14</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.10">Zechariah 10</reference>
+<lb/>Secret Reading: <reference osisRef="John.13">John 13</reference>
+$$$12.24
+<lb/>Family Reading: <reference osisRef="2Chr.29">2 Chronicles 29</reference>
+<lb/>Family Reading: <reference osisRef="Rev.15">Revelation 15</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.11">Zechariah 11</reference>
+<lb/>Secret Reading: <reference osisRef="John.14">John 14</reference>
+$$$12.25
+<lb/>Family Reading: <reference osisRef="2Chr.30">2 Chronicles 30</reference>
+<lb/>Family Reading: <reference osisRef="Rev.16">Revelation 16</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.12">Zechariah 12</reference>, <reference osisRef="Zech.13.1">13:1</reference>
+<lb/>Secret Reading: <reference osisRef="John.15">John 15</reference>
+$$$12.26
+<lb/>Family Reading: <reference osisRef="2Chr.31">2 Chronicles 31</reference>
+<lb/>Family Reading: <reference osisRef="Rev.17">Revelation 17</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.13.2-Zech..13.9">Zechariah 13:2-9</reference>
+<lb/>Secret Reading: <reference osisRef="John.16">John 16</reference>
+$$$12.27
+<lb/>Family Reading: <reference osisRef="2Chr.32">2 Chronicles 32</reference>
+<lb/>Family Reading: <reference osisRef="Rev.18">Revelation 18</reference>
+<lb/>Secret Reading: <reference osisRef="Zech.14">Zechariah 14</reference>
+<lb/>Secret Reading: <reference osisRef="John.17">John 17</reference>
+$$$12.28
+<lb/>Family Reading: <reference osisRef="2Chr.33">2 Chronicles 33</reference>
+<lb/>Family Reading: <reference osisRef="Rev.19">Revelation 19</reference>
+<lb/>Secret Reading: <reference osisRef="Mal.1">Malachi 1</reference>
+<lb/>Secret Reading: <reference osisRef="John.18">John 18</reference>
+$$$12.29
+<lb/>Family Reading: <reference osisRef="2Chr.34">2 Chronicles 34</reference>
+<lb/>Family Reading: <reference osisRef="Rev.20">Revelation 20</reference>
+<lb/>Secret Reading: <reference osisRef="Mal.2">Malachi 2</reference>
+<lb/>Secret Reading: <reference osisRef="John.19">John 19</reference>
+$$$12.30
+<lb/>Family Reading: <reference osisRef="2Chr.35">2 Chronicles 35</reference>
+<lb/>Family Reading: <reference osisRef="Rev.21">Revelation 21</reference>
+<lb/>Secret Reading: <reference osisRef="Mal.3">Malachi 3</reference>
+<lb/>Secret Reading: <reference osisRef="John.20">John 20</reference>
+$$$12.31
+<lb/>Family Reading: <reference osisRef="2Chr.36">2 Chronicles 36</reference>
+<lb/>Family Reading: <reference osisRef="Rev.22">Revelation 22</reference>
+<lb/>Secret Reading: <reference osisRef="Mal.4">Malachi 4</reference>
+<lb/>Secret Reading: <reference osisRef="John.21">John 21</reference>
