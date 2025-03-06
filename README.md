@@ -15,4 +15,6 @@ The original calendar was published in 1842 and is **Public Domain**.
 
 This digital rendering for SWORD applications does not change its copyright status.
 
-For further technical information please visit https://wiki.crosswire.org/DevTools:Modules
+For further technical information, please visit https://wiki.crosswire.org/DevTools:Modules
+
+For biogaphical and other resources, please visit https://mcheyne.info/
